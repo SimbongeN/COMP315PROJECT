@@ -1,0 +1,10 @@
+What is the main cause of rising sea levels?|A) Erosion only;B) Melting polar ice and thermal expansion;C) Cloud formation;D) Volcanic activity|B|Thermal expansion contributes 50% of current rise, ice melt 40%.
+Which region is most vulnerable to sea-level rise?|A) Mountain towns;B) Deserts;C) Low-lying coastal areas;D) Islands with cliffs|C|Areas <1m above sea level house 10% of global population.
+Is the statement "Thermal expansion means water expands as it warms" true or false?|A) True;B) False|A|Water expands ~0.025% per 1 degrees celcius temperature increase.
+What is a storm surge?|A) Ocean breeze;B) Sudden rise in sea level during a storm;C) Earthquake wave;D) Cloud burst|B|Can elevate sea levels 3+ meters during hurricanes.
+How do scientists model future sea-level rise?|A) By guessing;B) Using climate data and computer simulations;C) With random sampling;D) Using ancient myths|B|IPCC models combine satellite data with RCP scenarios.
+Is it true or false that sea-level rise only affects natural habitats, not people?|A) True;B) False|B|150M people currently live on land that will flood by 2050.
+What adaptation strategy can help protect against flooding?|A) Ignoring it;B) Planting trees on rooftops;C) Building seawalls and restoring wetlands ; D) Digging trenches inland|C|Wetlands reduce wave energy by 60-90%.
+Is the claim "Greenhouse gas emissions accelerate sea-level rise" true or false?|A) True;B) False|A|Each 1 degrees celcius warming raises seas ~2.3m over 2000 years.
+If a 3 degrees celcius temperature rise causes 0.7mm/year thermal expansion, what's the 50-year expansion?|A) 35mm;B) 105mm;C) 350mm;D) 70mm|A|Use this formula: Annual rate * Years * Temp multiplier.
+A city with 100km^2 area experiences 1m sea-level rise. What volume of water (m^3) is added?|A) 100 000m^3;B) 1M m^3;C) 100M m^3;D) 1B m^3|C|Use this formula: Area (m^2) * Rise (m).

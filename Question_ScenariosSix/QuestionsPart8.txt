@@ -1,0 +1,11 @@
+What is crop rotation?|A) Planting the same crop yearly;B) Changing crops each season;C) Moving farms often;D) Using fertilizer|B|Maintains soil health by alternating nutrient demands.
+Why is drip irrigation better than traditional irrigation?|A) Wastes water;B) More evaporation;C) Delivers water directly to roots;D) Used for flooding|C|Uses 30-50% less water than flood irrigation.
+Is the statement "Agroforestry combines trees with crops to improve biodiversity" true or false?|A) True;B) False|A|Tree roots stabilize soil while canopies provide habitat.
+What practice reduces the need for chemical fertilizers?|A) Pesticide spraying;B) Monocropping;C) Composting organic waste;D) Burning fields|C|1 ton of compost replaces 70kg of synthetic fertilizer.
+What's a climate-smart farming strategy?|A) Over-irrigation;B) Using drought-resistant crops;C) Planting water-heavy crops in deserts;D) Ignoring seasons|B|Drought-resistant varieties yield 20-30% more in dry years.
+Is it true or false that industrial agriculture always improves sustainability?|A) True;B) False|B|Monocultures degrade 24 million hectares of soil annually.
+What is a benefit of organic farming?|A) More synthetic pesticides;B) Healthier soil and fewer chemicals;C) Higher emissions;D) Less biodiversity|B|Organic soils store 3-8% more carbon than conventional.
+Is the claim "Cover crops help prevent soil erosion" true or false?|A) True;B) False|A|Reduces erosion by 50-90% compared to bare soil.
+If a farm switches from flood irrigation (60% efficiency) to drip (90% efficiency) for 10 hectares of corn needing 8 000m^3/season, what's the water savings?|A) 2 666m^3;B) 4 800m^3;C) 1 600m^3;D) 3 200m^3|A|Use this formula: Total water × (1 - Old efficiency/New efficiency).
+A farmer replaces 50kg of synthetic nitrogen fertilizer with compost. If fertilizer emits 5kg CO2 per kg produced, what's the carbon footprint reduction?|A) 25kg CO2;B) 250kg CO2;C) 500kg CO2;D) 1 000kg CO2|B|Use this formula: Fertilizer replaced × CO2 per kg.
+

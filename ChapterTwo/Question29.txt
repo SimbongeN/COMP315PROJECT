@@ -1,0 +1,10 @@
+What energy does a marble have at the top?|A) Kinetic;B) Thermal;C) Potential;D) Electrical|C|It depends on height.
+What energy does it have at the bottom?|A) Chemical;B) Kinetic;C) Magnetic;D) Potential|B|It’s moving fast.
+What causes the marble to accelerate downhill?|A) Friction;B) Air resistance;C) Gravity;D) Magnetism|C|It pulls things downward.
+What converts potential energy into kinetic?|A) Climbing;B) Falling;C) Rolling uphill;D) Lifting|B|Energy switches forms during movement.
+What happens if the ramp is taller?|A) Less speed;B) More kinetic energy;C) Same result;D) Marble stops|B|Higher means more stored energy.
+What slows the marble down?|A) Speed;B) Gravity;C) Friction;D) Momentum|C|This force resists motion.
+Where is total energy highest?|A) At the top;B) Middle;C) Bottom;D) Same everywhere|D|Potential energy is maximum initially.
+What type of energy remains constant if no loss?|A) Thermal;B) Sound;C) Total mechanical energy;D) Electric|C|It’s the sum of two moving and stored forms.
+Energy can change forms.|True;False|True|It never disappears, just shifts.
+Kinetic energy increases with speed.|True;False|True|Faster means more energy in motion.

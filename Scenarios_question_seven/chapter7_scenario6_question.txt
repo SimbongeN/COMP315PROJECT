@@ -1,0 +1,8 @@
+What is the formula for engineering stress?|A) Force*Area;B) Force/Area;C) Area/Force;D) Force+Area|B|Key concept: stress = F/A (Units: Pa = N/m^2). Check unit consistency (kN vs N, mm^2 vs m^2).
+A steel beam (A=0.01 m^2) carries F=5000 N. Stress = ?|A) 500 kPa;B) 0.5 MPa;C) 5 MPa;D) 50 MPa|B|Calculation: stress = F/Am^2. Remember: 1 MPa = 1e6 Pa.
+True/False: Stress and pressure use the same SI unit (Pascal).|A) True;B) False|A|Note: Both are N/m^2, but stress is internal resistance while pressure is external.
+Which stress type dominates in a stretched rope?|A) Compressive;B) Tensile;C) Shear;D) Torsional|B|Visual hint: Tensile = pulling, Compressive = pushing, Shear = sliding layers.
+If ultimate_stress = 250 MPa and applied_stress = 260 MPa, the material will:|A) Bend;B) Fracture;C) Stretch elastically;D) Harden|B|Material limit: Exceeding ultimate stress causes failure (no plastic deformation).
+True/False: Aluminum alloys can have higher strength-to-weight ratios than steel.|A) True;B) False|A|Example: 7075-T6 Al (yield=450 MPa, density=2.8 g/cm^3) vs A36 steel (yield=250 MPa, density=7.8 g/cm^3).
+Calculate FoS if ultimate_stress=400 MPa and working_stress=200 MPa:|A) 0.5;B) 2;C) 200;D) 600|B|Formula: FoS = ultimate_stress / working_stress. Typical range: 1.5-3.0 in civil engineering.
+True/False: Stress concentrations (e.g., holes) reduce effective strength.|A) True;B) False|A|Design note: Stress concentration factors (Kt) can triple local stresses.

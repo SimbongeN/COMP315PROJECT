@@ -1,0 +1,8 @@
+The bridge floats primarily due to:|A) Arches; B) Pontoon displacement; C) Cable tension; D) Concrete weight|B|Pontoons push aside water equal to their weight. Ethan demonstrates with a bucket and floating objects.
+Earthquakes endanger floating bridges because:|A) Water amplifies motions; B) Supports are too rigid; C) Cables snap; D) Pontoons implode|A|Water waves can triple seismic shaking. Ethan shows wave tank simulations.
+Flexible connections improve quake resistance. True or False?|A) True; B) False|A|Explanation: They allow 30-50cm movement during tremors. Ethan tests rubber vs rigid joints.
+Best seismic connection material is:|A) Steel dampers; B) Concrete; C) Wood; D) Aluminum|A|Dampers absorb energy like car shocks. Ethan compares material performance charts.
+Critical design loads include:|A) Only ice; B) Quakes + waves + wind; C) Just pedestrians; D) None|B|1m waves add 5kN/m2 pressure. Ethan reviews load combination tables.
+Water fully stops bridge movement in quakes. True or False?|A) True; B) False|B|Explanation: Water can resonate at 0.2-1Hz, matching quake frequencies. Ethan plays resonance videos.
+Wave protection requires:|A) Energy-absorbing barriers; B) Extra pontoons; C) Decorations; D) No barriers|A|Barriers cut wave forces by 60%. Ethan tests different barrier designs.
+Floating bridges can't work in quake zones. True or False?|A) True; B) False|B|Case study: 800m bridge survived Magnitude 7.1. Ethan shows its design specs.

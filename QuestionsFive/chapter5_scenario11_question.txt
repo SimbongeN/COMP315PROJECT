@@ -1,0 +1,10 @@
+What role do forests play in the carbon cycle?|A) Produce carbon dioxide;B) Store and absorb carbon dioxide;C) Reflect sunlight;D) Cause acid rain|B|Mature forests sequester 2.4-2.6 Gt CO2 annually.
+What happens when trees are cut down and burned?|A) More oxygen is produced;B) CO2 is released;C) Soil becomes richer;D) Rain increases|B|Burning 1 kg of wood releases ~1.8 kg CO2.
+True or false: Deforestation leads to habitat loss.|A) True;B) False|A|80% of terrestrial species live in forests.
+Which process naturally removes carbon dioxide from the air?|A) Ocean currents;B) Tree photosynthesis;C) Earthquakes;D) Volcanoes|B|Photosynthesis removes ~25% of anthropogenic CO2 yearly.
+Why is tropical deforestation especially harmful?|A) Less rainfall;B) High carbon storage is lost;C) Too many people;D) Insects spread|B|Amazon stores 150-200 Gt carbon (equivalent to 15-20 years of global emissions).
+True or false: Soil erosion increases after deforestation.|A) True;B) False|A|Erosion rates increase 10-100x without tree roots.
+What climate effect is linked to massive deforestation?|A) Cooling;B) Stable rainfall;C) Global warming;D) Thicker ozone layer|C|Deforestation contributes 12-20% of global greenhouse gases.
+What is a sustainable forestry solution?|A) Slash-and-burn;B) Logging without planting;C) Selective logging and replanting;D) Leaving stumps|C|Selective logging reduces biodiversity loss by 50-75%.
+If 1 hectare of rainforest stores 150 tons of carbon, how much CO2 is released by clearing 10 hectares? (1 ton carbon = 3.67 tons CO2)|A) 550 tons;B) 1 650 tons;C) 5 505 tons;D) 16 515 tons|C|Use this formula: Area * Carbon * 3.67.
+A country reduces deforestation from 1M to 600k hectares/year. If each hectare stores 200 tons CO2, what's the annual climate benefit?|A) 40M tons CO2 saved;B) 80M tons CO2 saved;C) 120M tons CO2 saved;D) 200M tons CO2 saved|B|Use this formula: (Old rate - New rate) * Storage per hectare.

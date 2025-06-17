@@ -1,0 +1,8 @@
+The bridge's unexpected vibrations suggest:|A) Material fatigue; B) Resonance matching; C) Thermal effects; D) Normal operation|B|Pedestrian footsteps at 2Hz can match bridge frequency. Ethan shows video comparisons.
+Calculating natural frequency helps Ethan:|A) Predict lifespan; B) Find resonance risks; C) Design towers; D) Test cables|B|Formula: f = 1/(2pi)sqrt((k/m)). Ethan plots frequency vs pedestrian step rates.
+Adding mass always fixes resonance. True or False?|A) True; B) False|B|Explanation: Mass changes frequency but may not prevent lock-in. Ethan tests with sandbags.
+Ethan's recommended solution is:|A) Tuned mass dampers; B) Extra cables; C) Taller pylons; D) New paint|A|20-ton dampers reduced London Millennium Bridge vibrations by 90%. Ethan shares specs.
+Aerodynamic deck shaping prevents:|A) Bending only; B) Vortex shedding; C) Visual rust; D) Truck impacts|B|Wind tunnel tests show 40% vibration reduction. Ethan compares deck profiles.
+Cable-stayed bridges vibrate more than suspension bridges. True or False?|A) True; B) False|B|Data: Suspension bridges have 3-5x more lateral sway. Ethan analyzes both types.
+Most dangerous vibration type is:|A) Front-back; B) Side-to-side sync; C) Thermal; D) Expansion joints|B|At 1Hz sync, 1500 people can generate 300kN force. Ethan demonstrates with metronomes.
+Tuned dampers require load recalculations. True or False?|A) True; B) False|A|Each damper adds 2-5% dead load. Ethan reviews updated stress diagrams.

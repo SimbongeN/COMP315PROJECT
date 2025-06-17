@@ -1,0 +1,10 @@
+What force pulls the car down the ramp?|A) Friction;B) Gravity;C) Wind;D) Magnetism|B|It’s the force that pulls things toward Earth.
+Which ramp will likely make the car go faster?|A) Flat;B) Low;C) Medium;D) Steep|D|More height means more speed.
+What happens to speed as the car goes down?|A) Increases;B) Stops;C) Decreases;D) Bounces|A|Objects going down usually get faster.
+Why does the car stop at the bottom?|A) Gravity;B) Friction;C) Air;D) Slope|B|This force resists motion on the surface.
+What tool can measure speed?|A) Thermometer;B) Stopwatch;C) Ruler;D) Compass|B|It tells how long something takes.
+If Ethan pushes the car, what kind of force is that?|A) Magnetic;B) Pull;C) Push;D) Gravity|C|It's an applied contact force.
+Which surface will slow the car more?|A) Ice;B) Carpet;C) Smooth wood;D) Metal|B|More texture means more friction.
+What happens if the ramp is removed?|A) The car flies;B) The car stays still;C) The car rolls up;D) The car runs faster|B|No slope means no motion unless pushed.
+Gravity helps the car roll down.|True;False|True|It pulls objects toward the Earth.
+A steeper ramp means less speed.|True;False|False|Think about angle and acceleration.

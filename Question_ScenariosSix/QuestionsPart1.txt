@@ -1,0 +1,8 @@
+What is the primary greenhouse gas released by burning fossil fuels?|A) Carbon dioxide;B) Oxygen;C) Nitrogen;D) Methane|A|It is a major contributor to global warming and comes from vehicles and factories.
+How does carbon dioxide contribute to global warming?|A) It reflects sunlight;B) It traps heat in the atmosphere;C) It cools the Earth;D) It blocks oxygen|B|Think about how heat gets stuck inside a greenhouse.
+Is the statement "Carbon dioxide traps heat, contributing to the greenhouse effect" true or false?|A) True;B) False|A|Greenhouse gases allow sunlight in but prevent heat from escaping.
+Which sector is responsible for the largest share of global CO2 emissions?|A) Transportation;B) Electricity and heat production;C) Agriculture;D) Construction|B|Power plants burning coal and natural gas release lots of CO2.
+What alternative energy source produces zero emissions during operation?|A) Coal;B) Oil;C) Wind power;D) Diesel|C|Think about sources that spin turbines without burning fuel.
+Is it true or false that solar panels work at night?|A) True;B) False|B|They need sunlight to generate electricity and do not work in darkness.
+Why is reforestation considered a method to combat climate change?|A) Trees absorb CO2;B) Trees increase oxygen use;C) Trees stop methane;D) Trees block sunlight|A|Photosynthesis removes carbon dioxide from the atmosphere.
+Is the claim "All renewable energy sources are 100% efficient" true or false?|A)True;B) False|B|Efficiency varies by technology; no system is perfectly efficient.

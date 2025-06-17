@@ -1,0 +1,10 @@
+What unit is commonly used to measure load in structural engineering?|A) Meters;B) Newtons;C) Liters;D) Hertz|B|1 N = 1 kg*m/s^2 (force required to accelerate 1kg at 1m/s^2).
+If a bridge spans 10 meters with equal support at both ends, what's the midpoint distance?|A) 5 meters;B) 2 meters;C) 10 meters;D) 1 meter|A|For simply supported beams, max moment occurs at L/2.
+True or false: Load is evenly distributed in a symmetrical bridge design.|A) True;B) False|A|Symmetry implies uniform force distribution when loaded centrally.
+What is the function of a truss in a bridge?|A) Absorb sunlight;B) Store tools;C) Distribute tension and compression;D) Provide color|C|Trusses convert loads into axial forces along members.
+Which beam shape is often used for strength and material efficiency?|A) Circular beam;B) Solid cube;C) I-beam;D) Hollow cylinder|C|I-beams concentrate material at flanges where stress is highest.
+True or false: A longer span typically requires thicker beams.|A) True;B) False|A|Bending moment proportional to span^2, requiring increased section modulus.
+How does increasing beam depth affect structural strength?|A) Weakens it;B) Strengthens it; C) Doesn’t matter;D) Makes it wobbly|B|Moment of inertia proportional to depth^3 (doubling depth increases stiffness 8x).
+What's a major concern if a beam exceeds its elastic limit?|A) It reflects light;B) Permanent deformation;C) It floats;D) It cools down|B|Yield strength is typically 50-80% of ultimate strength for wood.
+A 4m wooden beam (E=10GPa) with I=0.0001m^4 supports 500N at midspan. What's the deflection (mm)? Formula: d=PL^3/(48EI)|A) 8.3;B) 16.7;C) 33.3;D) 66.6|A|Convert E to Pa: 10GPa = 10^10 Pa.
+If a bridge must support 5kN/m^2 live load over 20m^2, what's the total design load?|A) 25kN;B) 100kN;C) 4kN;D) 0.25kN|B|Use this formular Total load = pressure * area (5kN/m^2 * 20m^2).

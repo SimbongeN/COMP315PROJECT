@@ -1,0 +1,14 @@
+What does Ethan’s sprinkler use to detect dry soil?|A) Thermometer;B) Soil moisture sensor;C) Camera;D) GPS|B|It checks how wet the soil is.
+What happens when the soil is dry?|A) Sprinkler turns off;B) Light blinks;C) Sprinkler turns on;D) Nothing|C|Automation triggers an action.
+What is automation?|A) Manual work;B) Machine-driven repetitive task;C) Typing fast;D) Jumping commands|B|Machines doing tasks without needing people.
+Why are sensors important in automation?|A) They decorate the machine;B) They look cool;C) They gather data;D) They store photos|B|They "feel" the environment.
+What is an example of another automation at home?|A) Remote control;B) Smart light turning on at sunset;C) Manual switch;D) Doorbell|B|It happens without pressing a button.
+Ethan programs his system to run only when?|A) It rains;B) The sensor reads below a threshold;C) Every 2 hours;D) Randomly|C|It depends on soil wetness.
+Which device stores Ethan's code?|A) Phone;B) USB;C) Microcontroller;D) TV|C|Think Arduino or Raspberry Pi.
+What does "if...then" represent in his program?|A) A bug;B) A command;C) A conditional logic;D) An error| It's how the system decides what to do.
+Sensors can collect temperature and moisture data.|True;False|True|They measure different environmental values.
+waters the garden manually every time.|True;False|False|It’s automated.
+
+
+
+

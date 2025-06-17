@@ -1,0 +1,8 @@
+Purpose of suspension cables?|A) Carry tension;B) Push deck up;C) Resist compression;D) Decoration|A|Physics: Cables follow parabolic shape under load q(x)=w.
+Vehicle load effects?|A) Vertical only;B) Vertical+horizontal+moment;C) Torsion only;D) No effect|B|When analyzing vehicle load effects on structures (e.g., bridges, pavements), consider: vertical loads,horizontal loads, moments/torsio.
+Bridge decks experience compression. True or false?|A) True;B) False|A|As a blanket statement - bridge decks are not primarily in compression under typical loads. The dominant behavior is flexure (bending).
+Method for indeterminate structures?|A) Algebra;B) Matrix methods;C) Trigonometry;D) Arithmetic|B|Indeterminate structures (those with more unknowns than equilibrium equations) require advanced analytical methods to solve..
+Bending moment at center of 10m beam with 1000N load?|A) 2500Nm;B) 4000Nm;C) 10000Nm;D) 5000Nm|A|Use this formula: M_max=(P*L)/4 (simply supported beam).
+Redundancy improves safety. True or false?|A) True;B) False|A|redundancy is a fundamental safety principle in engineering.
+Main factor for fatigue life?|A) Static loads;B) Cyclic loading;C) Temperature;D) Paint color|B|Fatigue life refers to how long a material lasts under repeated stress cycles before cracking or failing.
+Math+materials science advances bridges. True or false?|A) True;B) False|A|Math and materials science are pillars of modern bridge engineering.

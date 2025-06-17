@@ -1,0 +1,8 @@
+Which best describes renewable energy?|A) From fossil fuels;B) Naturally replenished;C) Only at night;D) Single-use|B|Key indicators: Replenishment rate > Consumption rate.
+What principle enables solar panels?|A) Combustion;B) Photovoltaic effect;C) Magnetism;D) Nuclear fission|B|Energy conversion: Photon energy -> Electron movement.
+Solar energy works only in daylight. True or false?|A) True;B) False|A|Storage requirement: Generation period != Usage period.
+If 1 panel=300W, 10 panels produce:|A) 0.3 kW;B) 3 kW;C) 30 kW;D) 3000 kW|B|Formula: Total power (kW) = (Single panel power * Number of panels) / 1000.
+What stores solar energy for night?|A) Battery;B) Transformer;C) Generator;D) Capacitor|A|Storage equation: Energy stored = Input power * Time * Efficiency.
+Batteries store unlimited energy losslessly. True or false?|A) True;B) False|B|Limitation: Energy out = Energy in * Roundtrip efficiency.
+If daily use=2kWh, monthly use is:|A) 15 kWh;B) 30 kWh;C) 60 kWh;D) 90 kWh|C|Formula: Monthly usage = Daily usage * Days in month.
+Energy education enables sustainable futures. True or false?|A) True;B) False|A|Impact metric: Behavior change = f(Knowledge, Incentives).

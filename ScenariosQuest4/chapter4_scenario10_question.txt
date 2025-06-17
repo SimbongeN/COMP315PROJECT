@@ -1,0 +1,10 @@
+What type of triangle is most stable in bridge design?|A) Scalene;B) Equilateral;C) Isosceles;D) Right|B|Equal angles (60 degrees celcius) distribute stress uniformly.
+What is the primary purpose of a beam in a bridge?|A) Decoration;B) Load distribution;C) Noise reduction;D) Paint application|B|Typical I-beams reduce material use by 40-60%.
+True or false: A bridge must only support its own weight, not the people or vehicles on it.|A) True;B) False|B|Design includes dead load (structure) + live load (users).
+What is compression in a bridge structure?|A) Twisting;B) Stretching;C) Pressing or squeezing;D) Melting|C|Concrete withstands -17to28MPa compressive stress.
+True or false: A material under tension is being pulled apart.|A) True;B) False|A|Steel cables handle -1 860MPa tensile stress.
+Which of these shapes is commonly used to resist tension in bridge structures?|A) Circle;B) Hexagon;C) Triangle;D) Square|C|Triangulation prevents parallelogram collapse.
+What do supports at the base of a bridge help prevent?|A) Expansion;B) Buckling;C) Rotation;D) Light reflection|B|Euler's formula predicts critical buckling load.
+True or false: Increasing the number of supports in a bridge can improve stability.|A) True;B) False|A|Each support reduces span length exponentially.
+If a 50kg child stands at the center of a 4m bridge, what's the force on each support?|A) 25kg;B) 50kg;C) 100kg;D) 200kg|A|Use this formula: Total weight / Number of supports.
+A steel cable with 2cm^2 cross-section withstands 3720kg load. What's the stress (kg/cm^2)?|A) 1 860;B) 3 720;C) 7 440;D) 18 600|A|Use this formula: Load / Area.

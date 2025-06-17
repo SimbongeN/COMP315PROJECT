@@ -1,0 +1,10 @@
+What part of the wind turbine captures the wind?|A) Tower;B) Blades;C) Base;D) Motor|B|Modern blades span 50-80m (longer than a Boeing 747 wingspan).
+What energy conversion occurs in a wind turbine?|A) Mechanical to light;B) Chemical to thermal;C) Kinetic to electrical;D) Magnetic to thermal|C|Typical conversion efficiency: 30-45% of wind energy to electricity.
+True or false: Blade shape affects how much wind energy a turbine can capture.|A) True;B) False|A|Airfoil-shaped blades increase efficiency by 300% vs flat blades.
+Which wind condition produces the most energy?|A) No wind;B) Gentle breeze;C) Consistent strong wind;D) Storms|C|Ideal range: 12-25 m/s (cut-off at 25 m/s for safety).
+What happens if a turbine spins too fast?|A) It produces more energy safely;B) It breaks or overheats;C) It becomes quieter;D) Nothing|B|Brakes engage at ~25 rpm to prevent damage.
+True or false: Wind turbines generate electricity using fossil fuels.|A) True;B) False|B|1MW turbine offsets ~1 500 tons CO2 annually vs coal plants.
+Which of the following improves turbine efficiency?|A) Random blade size;B) Taller towers;C) Heavy materials;D) Irregular spinning|B|Every 10m height increase = 5-10% more power output.
+What is one disadvantage of wind energy?|A) Causes pollution;B) Completely unreliable;C) Intermittent energy source;D) Always available|C|Typical capacity factor: 25-50% (vs 90% for nuclear).
+A wind farm has 20 turbines (2MW each) operating at 35% capacity. What's its annual output (MWh)? Formula: Turbines * Rating * Hours * CF|A) 12 264;B) 61 320;C) 122 640;D) 245 280|C|8 760 hours/year, 35% = 0.35 capacity factor.
+True or false: Offshore wind turbines typically generate more power than onshore ones.|A) True;B) False|A|Offshore winds are 50% stronger and more consistent.

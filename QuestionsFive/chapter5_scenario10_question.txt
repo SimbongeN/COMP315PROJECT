@@ -1,0 +1,10 @@
+What is a carbon footprint?|A) Footprint in wet cement;B) The total greenhouse gases produced by an activity;C) Shoe print on soil;D) Tree roots underground|B|Measured in kg CO2 equivalent per year.
+What common school activity increases carbon emissions the most?|A) Using stairs;B) Leaving lights on;C) Drinking water;D) Writing with pencil|B|A single classroom's lights left on overnight = -15kg CO2 weekly.
+True or false: Biking to school reduces your carbon footprint.|A) True;B) False|A|Saves -0.3kg CO2 per mile compared to a car.
+Which food waste reduction practice is best?|A) Throw away leftovers;B) Compost organic scraps;C) Use plastic wrappers;D) Ignore uneaten food|B|Composting 1kg food waste prevents -2.5kg CO2 emissions.
+True or false: Renewable energy comes from non-replenishable sources.|A) True ; B) False|B|Solar/wind replenish naturally vs fossil fuels.
+What is one way to reduce energy use at home or school?|A) Leave fans on;B) Turn off unused devices;C) Increase thermostat;D) Open fridge often|B|Standby power wastes 5-10% of household electricity.
+What gas is most associated with human-caused climate change?|A) Oxygen;B) Nitrogen;C) Carbon dioxide;D) Helium|C|CO2 causes 76% of anthropogenic greenhouse effect.
+True or false: Every small action to save energy can make a difference over time.|A) True;B) False|A|If 100 students turn off lights daily = -4 tons CO2/year saved.
+If 20 classrooms each have 10 lights (50W) running 2 extra hours daily, what's the annual CO2 emissions (kg)? Formula: kg CO2 = (Quantity * Watts * Hours * Days * 0.00042)|A) 306;B) 1 226;C) 3 066;D) 12 264|C|0.00042 = kg CO2 per Wh (US average).
+A school reduces paper use from 500kg to 300kg monthly. If paper production emits 1.5kg CO2 per kg, what's the annual savings?|A) 900kg;B) 3 600kg;C) 9 000kg;D) 18 000kg|B|Formula: (Old - New) * CO2/kg * 12 months.

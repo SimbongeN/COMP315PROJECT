@@ -1,0 +1,8 @@
+The main force in arch bridges is:|A) Bending; B) Compression; C) Tension; D) Shear|B|Arches convert loads into compressive forces along the curve. Ethan demonstrates with a foam arch model.
+When trucks use one side, the arch develops:|A) Even compression; B) Extra bending; C) Reduced right-side force; D) Left-side tension|B|Like bending a rainbow-shaped ruler. Ethan shows stress diagrams.
+Keystones directly fix uneven load issues. True or False?|A) True; B) False|B|Explanation: Keystones prevent collapse but don't balance uneven forces. Ethan removes a keystone from a model.
+Ethan's best solution for uneven loads is:|A) More keystones; B) Steel tie-rods; C) Ornamental rocks; D) Thicker road surface|B|Tie-rods absorb sideways thrust. Ethan installs cables on a model bridge.
+Calculating horizontal thrust helps determine:|A) Foundation sliding risk; B) Arch weight; C) Paint needed; D) Nothing important|A|Thrust = (Load x Span)/(2 x Height). Ethan measures foundation cracks.
+Stronger foundations reduce arch compression. True or False?|A) True; B) False|B|Explanation: Foundations prevent movement but don't change internal forces. Ethan compares settled vs. repaired foundations.
+Load distribution improves most by adding:|A) A solid deck; B) Decorations; C) Stone gaps; D) Warning signs|A|Decks spread point loads. Ethan tests with/without deck using scale models.
+Arch bridges outperform beams in all cases. True or False?|A) True; B) False|B|Explanation: Beams better handle bending from uneven loads. Ethan shows both bridge types under stress.

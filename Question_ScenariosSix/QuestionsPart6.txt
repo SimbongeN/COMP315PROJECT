@@ -1,0 +1,10 @@
+Which feature is typically included in a green building?|A) Fluorescent lighting;B) Poor insulation;C) Rainwater collection systems;D) Gas-only heating|C|Saves 30-50% of potable water usage by recycling rainwater.
+What does a high R-value in insulation indicate?|A) Low heat resistance;B) High heat resistance;C) Flammable material;D) Air leaks|B|R-30 insulation reduces heat flow 30x better than R-1.
+Is the statement "Energy-efficient windows reduce heating and cooling needs" true or false?|A) True;B) False|A|Double-glazed windows can cut HVAC costs by 10-30%.
+Why are skylights used in green buildings?|A) Aesthetic reasons only;B) To heat air;C) To increase natural light and reduce electric lighting;D) To absorb rain|C|Properly placed skylights provide 20-100 lumens/watt of natural light.
+Which material is considered eco-friendly in construction?|A) Asbestos;B) Recycled steel; C) PVC plastic;D) Lead|B|Recycling steel saves 75% of the energy needed for new steel.
+Is it true or false that green buildings cost more to operate long-term?|A) True;B) False|B|LEED-certified buildings average 20% lower maintenance costs.
+What role does proper ventilation play in sustainable buildings?|A) Wastes energy;B) Traps pollutants;C) Improves indoor air quality;D) Encourages mold|C|Mechanical ventilation with heat recovery retains 60-95% of warmth.
+Is the claim "Green-certified buildings always use 100% renewable energy" true or false?|A) True;B) False|B|LEED awards points for renewable energy but doesn't mandate 100%.
+If a school replaces 400 incandescent bulbs (60W) with LEDs (12W) running 8h/day, what's the annual kWh savings?|A) 56 064 kWh;B) 5 606 kWh;C) 560 kWh;D) 112 128 kWh|A|Use this formula: (Old wattage - New wattage) × Quantity × Hours/day × 365 ÷ 1000.
+A classroom's HVAC load drops from 5kW to 3.5kW after insulation upgrades. If it runs 6h/day for 180 school days, what's the kWh savings?|A) 1 620 kWh;B) 3 240 kWh;C) 5 400 kWh;D) 6 480 kWh|A|Use this formula: (Old load - New load) × Hours/day × Days.

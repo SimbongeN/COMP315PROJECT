@@ -1,0 +1,10 @@
+What happens when weight is added to one blade?|A) Spins faster;B) Spins unevenly;C) Stops spinning;D) Explodes|B|Balance affects rotation.
+What is torque?|A) Force that stops spin;B) Force causing rotation;C) Heat in motion;D) Electric pull|B|It’s like force but in a circle.
+Which position causes more torque?|A) Center;B) Closer to pivot;C) Far from center;D) No difference|C|Further distance increases leverage.
+Why does fan slow with uneven blades?|A) More air;B) Balance lost;C) More weight;D) Heat increases|B|Imbalance disrupts smooth motion.
+What helps balance a rotating object?|A) Random weight;B) Equal mass on all sides;C) More speed;D) Magnetic field|B|Symmetry matters.
+Which tool measures rotation speed?|A) Protractor;B) Speedometer;C) Tachometer;D) Barometer|C|Used for engines too.
+What happens if weights are removed?|A) Spins slower;B) Becomes stable;C) Shakes more;D) Stops|B|Removing imbalance can help.
+Why is spinning hard to start?|A) Inertia;B) Gravity;C) Friction;D) Force|A|Objects resist change.
+Torque depends on both force and distance.|True;False|Think of levers and turning.
+A fan always spins faster with more weight.|True;False|Think about balance and drag.

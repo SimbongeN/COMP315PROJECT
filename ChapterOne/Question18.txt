@@ -1,0 +1,10 @@
+What field is Ethan exploring?|A) Literature;B) Mechanics;C) Cooking;D) Drawing|B|It deals with how machines move.
+What might a sensor do in Ethan’s robot arm?|A) Play music;B) Detect motion;C) Draw pictures;D) Grow plants|B|It senses physical input.
+Why does Ethan sketch before building?|A) For fun;B) To plan the design;C) To color later;D) To make a poster|B|Engineers use blueprints.
+If the arm doesn't move, what should Arjun check first?|A) Color of wires;B) Battery and connections;C) Weight of the arm;D) Room temperature|B|Power and wiring are crucial.
+What is torque?|A) A metal part;B) A power tool;C) Rotational force:D) Sticky tape|C|It turns the arm parts.
+Which component moves the robot parts?|A) LED;B) Sensor;C) Motor;D) Switch|C|It powers the movement.
+Why might Ethan use gears?|A) Make it pretty;B) Control motion and speed;C) For weight;D) Decoration|B|They transfer and adjust movement.
+Which career aligns with Ethan’s interest?|A) Mechanical Engineer;B) Baker;C) Writer;D) Artist|A|They work with machines and mechanics.
+Sensors help machines respond to their environment.|True;False|True|They detect changes or input.
+Ethan is doing engineering design work.|True;False|True|Designing and testing machines is core to engineering.

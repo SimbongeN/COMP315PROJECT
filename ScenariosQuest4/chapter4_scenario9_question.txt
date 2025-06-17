@@ -1,0 +1,9 @@
+Ethan's analysis shows the failure was due to:|A) Corrosion of decorative elements;B) Lack of redundancy in load paths;C) Excessive deck painting;D) Broken railings only|B|Critical failure occurs when loads can't redistribute (no secondary supports/alternate paths).
+To prevent future failures, Ethan recommends:|A) Strengthening critical members + adding load paths;B) Removing weight limits;C) Replacing with wood;D) No action needed|A|Redundancy requires ≥2 independent load paths per AASHTO standards.
+Ethan states cross-bracing redistributes loads effectively. True or false?|A) True;B) False|A|Optimal cross-bracing (45deg-60deg) creates triangular load transfer paths.
+The overloaded truck exceeded design capacity by:|A) 50%;B) 200%;C) 10%;D) Within limits|B|HL-93 standard design load + phi=0.75 safety factor were violated.
+Recommended monitoring system:|A) SHM sensors;B) CCTV only;C) More guards;D) Loudspeakers|A|SHM detects strain (microepsilon), cracks (>=0.3mm), vibrations (Hz) in real-time.
+Collapse of one span never affects others. True or false?|A) True;B) False|B|Progressive collapse occurs when deltaL>30% span length (Vierendeel action).
+Reconstruction should use:|A) Continuous spans + redundancy;B) Short spans only;C) Pedestrian-only;D) Decorations|A|Continuous spans reduce bending moments by ~20% vs simple spans.
+Modern bridges can never collapse. True or false?|A) True;B) False|B|All structures have Pf=1e-6 to 1e-3 failure probability (ASCE 7-22).
+

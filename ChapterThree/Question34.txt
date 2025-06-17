@@ -1,0 +1,11 @@
+What data does Ethan analyze?|A) Student grades;B) Traffic light colors;C) Car counts from road sensors;D) Park opening hours|C|Data collected from city intersections.
+What is the goal of his analysis?|A) Make maps;B) Build more roads;C) Identify traffic congestion;D) Change driver behavior|C|He wants to reduce waiting times.
+What kind of graph best shows traffic flow over time?|A) Pie chart;B) Bar chart;C) Line graph;D) Scatter plot|C|Think continuous data trends.
+Siddharth groups data by time of day. What is this called?|A) Clustering;B) Batching;C) Sampling;D) Sorting|D|Dividing data into categories.
+Which Python library might help Ethan analyze data?|A) matplotlib;B) discord;C) tkinter;D) pygame|A|Used for plotting graphs.
+What causes traffic spikes in Ethan’s data?|A) Nighttime lull;B) Random breaks;C) Rush hours;D) Bus holidays|C|Times when most people commute.
+What does Ethan recommend to reduce jams?|A) More streetlights;B) Carpooling and smart routes;C) Longer commutes;D) Turn off traffic sensors|B|Smarter movement, not more roads.
+What is a heatmap used for?|A) Measuring temperature;B) Showing traffic volume visually;C) Sorting emails;D) Coding games|B|High-traffic areas are colored brighter.
+Ethan uses data to find less crowded paths.|True;False|True| He analyzes traffic patterns.
+His code can’t help without real data.|True;False|True|Data is essential for conclusions.
+

@@ -1,0 +1,13 @@
+Renewable Energy Basics|Ethan introduces young students to the fundamentals of renewable energy sources.|chapter7_scenario1_question.txt|Easy
+Workshop on Water Conservation|Ethan leads a session teaching methods of conserving water resources.|chapter7_scenario2_question.txt|Easy
+Robotics Class for Beginners|Ethan introduces robotics basics to inspire innovation among kids.|chapter7_scenario3_question.txt|Easy
+Seminar on Advanced Materials|Ethan teaches about smart materials and their role in future technologies.|chapter7_scenario4_question.txt|Medium
+Climate Science with Scholars|Ethan conducts an advanced class about climate change modeling.|chapter7_scenario5_question.txt|Medium
+Sustainable Urban Planning|Ethan teaches how to integrate sustainability into city design.|chapter7_scenario6_question.txt|Medium
+Space Science Challenges|Ethan leads students in solving engineering challenges in space science.|chapter7_scenario7_question.txt|Hard
+Earthquake-Resistant Structures|Ethan is preparing his students to design buildings that can withstand earthquakes by understanding seismic forces and structural responses.|chapter7_scenario8_question.txt|Hard
+Advanced Bridge Design Concepts with Students|Ethan challenges his students to apply their knowledge to design a bridge that can efficiently handle multiple load types and environmental stresses.|chapter7_scenario9_question.txt|Hard
+Exploring Beam Bridges|Ethan is introduced to basic beam bridge designs using rulers and blocks. He investigate how weight is supported and where stress points form on simple bridges.|chapter7_scenario10_question.txt|Easy
+Calculating Load Capacity in Truss Bridges|Ethan designs a truss bridge for a local competition. He learn how to calculate forces using triangular supports and identify how load is balanced across joints.|chapter7_scenario11_question.txt|Medium
+Suspension Bridge Dynamics|Ethan study suspension bridges by analyzing how cables distribute weight and how towers transfer load. He simulate cable tension using weighted ropes.|chapter7_scenario12_question.txt|Hard
+

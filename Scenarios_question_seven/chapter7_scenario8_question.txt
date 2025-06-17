@@ -1,0 +1,8 @@
+Primary earthquake damage mechanism?|A) Static load;B) Lateral dynamic load;C) Thermal load;D) Dead load|B|Key concept: Inertial force F = m * PGA (where PGA = peak ground acceleration).
+What determines natural frequency?|A) Color;B) Mass/stiffness;C) Height only;D) Window count|B|Formula: fn = 1/(2*pi) * sqrt(k/m) where k=stiffness, m=mass.
+Resonance occurs when building frequency matches quake frequency. True or false?|A) True;B) False|A|Condition: When earthquake frequency = 1/(2*pi)*sqrt(k/m).
+Base isolators function?|A) Add weight;B) Decouple motion;C) Increase height;D) Store water|B|Design goal: Increase structure period T = 2*pi*sqrt(m/k) beyond quake's dominant period.
+Calculate F=m*a for m=10,000kg, a=3m/s^2:|A) 30kN;B) 3.33kN;C) 13kN;D) 7kN|A|Formula reminder: Force (N) = mass (kg) * acceleration (m/s^2). 1kN = 1000N.
+Ductility prevents brittle collapse. True or false?|A) True;B) False|A|Design principle: Required ductility mean = change int_max / change in_yield (per AISC 341).
+Best seismic energy dissipation?|A) Rigid frame;B) Braced+dampers;C) Cantilever;D) Simple beam|B|Energy equation: E_dissipated = 0.5 * c * v^2 where c=damping coefficient.
+Seismic knowledge saves lives. True or false?|A) True;B) False|A|Statistical proof: Fatality rate i directly propotional to 1/(design base shear coefficient)^2.

@@ -1,0 +1,12 @@
+The Curious Collector(Observation and Classification)|Ethan, a 10-year-old boy, starts collecting pebbles from the park and notices they have different colors, textures, and weights. He wonders if he’s developing a new skill.|Question11.txt|easy
+Paper Plane Challenge(Hands-On Experimentation)|the boy is fascinated with making paper airplanes. He starts modifying wings and paper types to see which flies farthest.|Question12.txt|easy
+The Animal Whisperer(Empathy and Animal Behavior)|Ethan spends time feeding birds and watching squirrels. He begins to understand their behaviors.|Question13.txt|easy
+The Voice(Music and Pattern Recognition)|Ethan finds he can match musical notes by ear and recreate melodies on a keyboard after hearing them once.|Question14.txt|medium
+The Lego Architect(Spatial Intelligence and Design)|Ethan loves building complex Lego structures. He starts making mini buildings that resemble real-world architecture.|Question15.txt|medium
+Science Fair Surprise(Scientific Thinking and Hypothesis)|Ethan conducts a simple plant experiment using sunlight, water, and music to see which helps plants grow best.|Question16.txt|medium
+The Code Breaker(Logical Thinking and Programming)|Ethan teaches himself basic coding. He solves puzzles and writes short programs to make animations.|Question17.txt|hard
+Strategic(Decision Making and Game Theory)|Ethan becomes fascinated with chess. He starts analyzing multiple outcomes before making moves.|Question18.txt|hard
+The Young Economist(Financial Thinking and Trade-offs)|The boy starts a mini shop at home selling handmade bookmarks to learn about value, demand, and budgeting.|Question19.txt|hard
+Fixing an Old Windmill|A curious young inventor named Alex takes on the challenge of repairing a broken windmill using scientific principles after being encouraged by its owner, Mr. Patel|Question111.txt|easy
+Discovering Musical Talent|Sophie, a reserved teenager, explores an old family piano given to her by her grandmother and unexpectedly uncovers her hidden gift for music and composing.|Question112.txt|medium
+Exploring Chemistry|Jamie, a curious observer of everyday changes, discovers an old chemistry set belonging to their scientist aunt and begins experimenting, unlocking the fascinating world of chemistry.|Question113.txt|hard

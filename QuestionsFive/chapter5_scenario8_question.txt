@@ -1,0 +1,8 @@
+Ethan explains renewable intermittency means:|A) Constant power output;B) Generation varies with weather/season;C) Only works at night;D) Requires no backup|B|Solar drops 70-100% on cloudy days; wind varies hourly. *Ethan shows generation charts.*
+For a 5MW solar farm operating 8h/day, daily output is:|A) 40MWh;B) 15MWh;C) 5MWh;D) 60MWh|A|Calculation: Power (MW) x Hours = Energy (MWh). *Ethan demonstrates with a load curve.*
+Batteries mitigate renewable intermittency. True or False?|A) True;B) False|A|Explanation: 4-hour lithium batteries cover 90% of solar drops. *Ethan compares with/without storage scenarios.*
+When renewables supply 20MW but demand peaks at 30MW, Ethan recommends:|A) Dispatchable gas plants + storage;B) Ration power;C) Overload lines;D) Do nothing|A|The 10MW gap requires flexible resources. *Ethan models cost-optimal solutions.*
+A 35% wind capacity factor indicates:|A) 35% of max possible output is actually produced;B) 35% turbine uptime;C) 35% wind speed consistency;D) 35% of grid mix|A|Formula: Actual MWh / (Rated MW x 8760h). *Ethan analyzes turbine performance data.*
+Overbuilding renewables + curtailment is sometimes necessary. True or False?|A) True;B) False|A|Example: California curtails 1.5TWh/year to ensure reliability. *Ethan shows curtailment tradeoff graphs.*
+Demand response helps by:|A) Shifting usage to match renewable supply;B) Increasing peak demand;C) Ignoring grid signals;D) Raising prices|A|10% demand flexibility = 30% fewer storage needs. *Ethan simulates a heat pump program.*
+Renewable integration requires advanced grid management. True or False?|A) True;B) False|A|Key tools: Forecasting, storage, flexible generation. *Ethan diagrams a modern grid control room.*

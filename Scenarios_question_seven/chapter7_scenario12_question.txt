@@ -1,0 +1,10 @@
+What is the primary role of the main cables in a suspension bridge?|A) Provide decoration;B) Carry compressive forces;C) Support the bridge deck via tension;D) Absorb sound|C|Main cables withstand 500-2,000 MPa tensile stress.
+What type of force acts on the bridge's towers in a suspension bridge?|A) Tensile;B) Compressive;C) Shear;D) Magnetic|B|Towers bear 100000+ tons vertical load in large bridges.
+True or false: Suspension bridges are ideal for long spans across wide areas.|A) True;B) False|A|World's longest span: 2,023m (Akashi Kaikyo Bridge).
+The mathematical formula that approximates cable tension under uniform load involves:|A) Force = mass * gravity;B) Parabolic curve equations;C) Boyle's law;D) Voltage laws|B|Cable shape follows y = (w*x^2)/(2*T) for uniform load w.
+True or false: Increasing the load on a suspension bridge deck always increases cable tension.|A) True;B) False|A|Hooke's Law states tension is proportional to applied force (F = k*dL).
+Which component helps prevent swaying in suspension bridges?|A) Handrails;B) Deck paint;C) Stiffening trusses;D) Lighting systems|C|Trusses reduce torsional deflection by 40-60%.
+What is a potential risk in very long suspension bridges during wind storms?|A) Melting;B) Electrocution;C) Oscillation or fluttering;D) Erosion|C|Tacoma Narrows failed at 42 mph winds (1940).
+True or false: The main cables of a suspension bridge put the deck under compressive forces.|A) True;B) False|A|Vertical cable forces create deck compression, while horizontal forces create tension in cables.
+If a 500m span has 10m sag, what's the approximate horizontal tension (T) when w=50kN/m? Formula: T - (w*L^2)/(8*d)|A) 1 560 kN;B) 15 625 kN;C) 31 250 kN;D) 62 500 kN|B|L=span length, d=sag, w=load per unit length.
+A bridge cable (E=200GPa, A=0.1m^2) stretches 0.5m under 10,000kN load. What's its original length? Formula: L0 = (dL*E*A)/F|A) 100m;B) 500m;C)1,000m;D) 2000m|C|Convert E to Pa: 200GPa = 200*10^9 Pa.

@@ -1,0 +1,9 @@
+Which energy source is replenished naturally and won't run out?|A) Coal;B) Wind;C) Natural gas;D) Oil|B|Think of sources that rely on natural processes like wind or sunlight.
+What is the biggest drawback of fossil fuels like coal and oil?|A) They are infinite;B) They produce low emissions;C) They pollute and will eventually deplete;D) They are free to extract|C|They take millions of years to form but burn in seconds.
+True or False: Solar panels generate power only when the sun shines.|A) True;B) False|A|Solar energy depends on daylight and weather.
+Why do many countries still rely on fossil fuels?|A) They have no alternatives;B) Existing power plants and vehicles are designed for them;C) They are environmentally friendly;D) Renewable energy is banned|B|Transitioning requires replacing infrastructure.
+What is a key challenge for wind farms?|A) They emit CO2;B) Wind isn't steady 24/7;C) They cause acid rain;D) Turbines are too cheap|B|Energy production varies with weather.
+True or False: All biomass energy is carbon-neutral.|A) True;B) False|B|Burning forests faster than they regrow increases CO2.
+Geothermal energy harnesses heat from:|A) The sun;B) Ocean waves;C) Earth's core;D) Burning waste|C|Volcanoes and hot springs show this energy underground.
+Dams for hydropower can disrupt:|A) Air quality;B) Fish migration and river ecosystems;C) Solar panel efficiency;D) Wind patterns|B|Blocking rivers affects wildlife and sediment flow.
+True or False: Nuclear power plants produce greenhouse gas emissions during electricity generation.|A) True;B) False|B|They emit no CO2 during operation, only during fuel processing.

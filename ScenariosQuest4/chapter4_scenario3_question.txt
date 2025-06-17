@@ -1,0 +1,8 @@
+To calculate wind pressure at 30m/s (air density=1.2kg/m3), Ethan uses P=0.5*rho*V*V. The result is:|A) 540N/m2; B) 360N/m2; C) 450N/m2; D) 180N/m2|C|0.5 x 1.2 x (30x30). Ethan writes out the calculation steps.
+For 100m2 bridge area, total wind force equals:|A) 45,000N; B) 4,500N; C) 450N; D) 90,000N|A|Pressure x Area = 450 x 100. Ethan compares to car weights for scale.
+Solid barriers always improve wind safety. True or False?|A) True; B) False|B|Explanation: Solid walls create 2x more force than open rails. Ethan demonstrates with a fan and model bridge.
+Diagonal braces help by:|A) Only holding up weight; B) Resisting side-to-side forces; C) Making the bridge lighter; D) Changing wind direction|B|Triangles don't distort easily. Ethan builds a braced vs unbraced model.
+To reduce wind vibrations, Ethan suggests:|A) Streamlined shapes; B) New paint; C) Shorter length; D) Only adding weight|A|Teardrop shapes prevent swirling winds. Ethan shows aircraft wing examples.
+Suspension bridges handle wind better than truss bridges. True or False?|A) True; B) False|B|Explanation: Flexible cables can oscillate dangerously. Ethan shows Tacoma Narrows footage.
+The most dangerous wind effect is:|A) Simple pushing; B) Regular vortices; C) Metal tiredness; D) Fluttering collapse|D|Like a flag ripping in storm winds. Ethan draws the twisting motion.
+Pedestrian bridges skip wind calculations. True or False?|A) True; B) False|B|Explanation: Even light bridges must resist 100+ mph gusts. Ethan shares inspection records.

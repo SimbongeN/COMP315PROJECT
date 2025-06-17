@@ -1,0 +1,8 @@
+What defines a sustainable material?|A) Cheap production;B) Replenishable without environmental harm;C) Made only from plastics;D) Never degrades|B|Criteria: Renewability rate > consumption rate AND carbon footprint <1kg CO2e/kg (ISO 14067).
+What characterizes biodegradable materials?|A) Water-soluble;B) Breaks down via microorganisms;C) Mechanical recycling only;D) Permanent stability|B|ASTM D6400 requires 90% decomposition in 180 days at 58+-2degCelcius with 60% humidity.
+Biodegradable plastics decompose quickly in landfills. True or false?|A) True;B) False|B|Landfills lack oxygen/microbes - decomposition takes 100+ years (EPA 2022 study).
+What does Life Cycle Assessment evaluate?|A) Production cost;B) Cradle-to-grave environmental impacts;C) Aesthetic appeal;D) Recycling potential only|B|Analyzes 19 indicators including GWP (kg CO2e), water use (m3), and eutrophication (kg PO4e).
+Material A has LCA score=50, Material B=30. Which is better?|A) 50;B) 30;C) Equal;D) Can't compare|B|Lower ReCiPe score = better. Example values: Concrete=400kg CO2e/m3 vs CLT=80kg.
+Recycled materials always beat virgin materials. True or false?|A) True;B) False|A|Recycling aluminum saves 95% energy (23 vs 0.5 MJ/kg) and reduces CO2 by 92%.
+Which is NOT renewable?|A) Bamboo;B) Glass;C) FSC-certified wood;D) Corn starch|B|Glass requires silica sand (finite) + 1500degC melting vs bamboo's 15-30 ton/hectare yield.
+Teaching sustainability changes behavior. True or false?|A) True;B) False|A|Studies show 42% increase in eco-choices post-education (J. Cleaner Prod. 2023)

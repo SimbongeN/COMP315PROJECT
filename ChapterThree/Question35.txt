@@ -1,0 +1,13 @@
+What does Ethan’s system detect?|A) Wind speed;B) Carbon levels and particulates;C) Light brightness;D) Noise|C|Related to pollution.
+What is PM2.5 in air quality?|A) A weather pattern;B) A chemical;C) Tiny harmful particles;D) Water vapor|C|Measured in micrograms per cubic meter.
+When does Ethan send alerts?|A) Daily at noon;B) Randomly;C) When pollution crosses a threshold;D) Every time someone sneezes|C|Only when air becomes unhealthy.
+What device helps measure air quality?|A) Sound meter;B) Infrared camera;C) Gas sensor;D) Microphone|A|It detects pollutant levels.
+What action can parents take upon receiving alerts?|A) Close windows, limit outdoor time;B) Turn off devices;C) Sleep more;D) Buy new phones|C|Reduce children’s exposure.
+Ethan stores air quality data in what structure?|A) Image files;B) Videos;C) Tables/spreadsheets;D) Text messages|A|For analysis, it needs organization.
+What kind of average helps track pollution trends?|A) Arithmetic mean;B) Standard deviation;C) Mode;D) Interquartile range|C|Add values, divide by count.
+Why is data visualization helpful in Ethan’s app?|A) To confuse users;B) For fancy effects;C) To explain pollution clearly;D) It’s not useful|Easy to understand trends.
+Ethan’s app notifies users using live data.|True;False|True|It alerts in real time.
+Air sensors work only at night.|True;False|False|They function constantly.
+
+
+

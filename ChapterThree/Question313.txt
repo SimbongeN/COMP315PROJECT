@@ -1,0 +1,10 @@
+Which C++ container is most suitable for inserting and removing elements frequently at both ends? | A) vector;B) list;C) deque;D) set|C|It’s a double-ended queue
+JWhat is the time complexity of binary search on a sorted array? | A) O(n), B) O(n log n), C) O(log n), D) O(1)|C|It halves the search space each time.
+Which sorting algorithm is considered the fastest for large datasets in the Standard Template Library (STL)?|A) Insertion sort;B) Bubble sort;C) Merge sort;D) std::sort|D|It’s a hybrid of QuickSort, HeapSort, and InsertionSort.
+What is the average case time complexity of std::unordered_map lookups?|A) O(log n);B) O(n);C) O(1);D) O(n log n)|C|It uses a hash table
+Which C++ data structure is most suitable for implementing a priority queue?| A) vector, B) queue, C) list, D) priority_queue|D|It’s built on heaps.
+What does the emplace_back() method in vector do?|A) Replaces the last element;B) Removes the last element;C) Constructs and inserts at the end;D) Appends a NULL value|C|It avoids unnecessary copying.
+What is the main advantage of using a hash map over a binary search tree?|A) More memory usage;B) Slower insertion;C) Constant time lookup;D) Preserves order|C|Hashing is faster in average case.
+Which algorithm is not comparison-based?|A) Merge sort;B) Quick sort;C)Bubble sort;D) Counting sort|D|It uses counts, not comparisons.
+Which of the following is a stable sorting algorithm?|A) Quick sort;B) Merge sort;C) Heap sort;D) Selection sort|B|Equal elements maintain their order.
+What C++ keyword is used to prevent data from being copied during function calls?|A) new;B) const;C) static;D) & (reference)|D|References pass memory addresses.

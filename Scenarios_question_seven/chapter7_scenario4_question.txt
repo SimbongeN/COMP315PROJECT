@@ -1,0 +1,8 @@
+What force causes turbine rotation?|A) Gravity;B) Magnetism;C) Aerodynamic lift;D) Friction|C|Principle: Airfoil shape creates pressure differential (Bernoulli's principle).
+What is the Betz Limit?|A) Max efficiency;B) Min blade size;C) Cost limit;D) Noise level|A|Theoretical maximum: 16/27 (approx 59.3%) of wind's kinetic energy convertible.
+Turbines can convert 100% of wind energy. True or false?|A) True;B) False|B|Physical constraint: Energy extraction requires wind to keep moving downstream.
+In P=0.5*rho*A*v^3, what is v?|A) Air density;B) Wind speed;C) Blade length;D) Power coefficient|B|Variable relationships: Power proportional to v^3 (cube of wind speed).
+If wind speed doubles, power output:|A) 2x;B) 3x;C) 4x;D) 8x|D|Calculation reminder: (2v)^3 = 8*v^3.
+Longer blades always mean more power. True or false?|A) True;B) False|B|Design balance: Blade length vs structural stress vs cost vs efficiency.
+Key material property for blades:|A) High density;B) Strength/weight ratio;C) Conductivity;D) Melting point|B|Material science: Carbon fiber = 200-500 MPa/(g/cm3), steel = 50-150.
+Teaching design limits fosters innovation. True or false?|A) True;B) False|A|Engineering truth: Constraints drive creativity (e.g., SpaceX reusability).

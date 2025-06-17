@@ -1,0 +1,12 @@
+What is conserved in a collision (ignoring friction)?|A) Energy only;B) Mass;C) Momentum;D) Speed|C|It’s a product of mass and velocity.
+What changes in an inelastic collision?|A) Momentum;B) Total energy;C) Kinetic energy;D) Speed|C|Some energy becomes heat or sound.
+Which quantity is not always conserved?|A) Momentum;B) Kinetic energy;C) Mass;D) Direction|B|Only true in elastic collisions.
+If one cart is heavier, what happens after collision?|A) Lighter cart moves faster;B) Heavier stops;C) They switch;D) Equal speeds|A|Momentum favors mass.
+What does ‘elastic’ mean in collisions?|A) Bounce without loss;B) Stick together;C) Stretching;D) No friction|A|Think bouncy collisions.
+What unit is used for momentum?|A) kg·m/s;B) m/s²;C) N;D) J|A|Mass × velocity.
+What law governs the before and after of a crash?|A) Newton’s First Law;B) Conservation of Energy;C) Conservation of Momentum;D) Thermodynamics|C|It involves moving masses.
+Which factor does not affect momentum?|A) Speed;B) Mass;C) Height;D) Direction|C|Only movement matters.
+Momentum is a vector quantity.|True;False|True|Direction matters in collisions.
+Energy is always conserved in elastic collisions.|True;False|True| Kinetic energy stays constant in such collisions.
+
+

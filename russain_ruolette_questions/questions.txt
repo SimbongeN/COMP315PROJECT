@@ -1,0 +1,80 @@
+What is the primary source of energy in most ecosystems?|A) Wind;B) Sunlight;C) Heat;D) Water|B|Think about what drives photosynthesis.
+Is the scientific method a structured process for inquiry?|A) True;B) False|A|Consider how scientists validate hypotheses.
+A train moving at 120 km/h must stop within 500 m. What is the best formula to calculate required deceleration?|A) F=ma;B) v^2 = u^2 + 2as;C) p=mv;D) s = ut + 1/2at^2|B|Use the equation that relates speed, distance, and acceleration.
+Does reducing deceleration distance increase the force experienced by passengers?|A) True;B) False|A|Force is inversely proportional to stopping distance.
+What type of sensor is typically used to measure air quality?|A) Gyroscope;B) Optical Dust Sensor;C) Pressure Sensor;D) Accelerometer|B|Think about what detects particulate matter in the air.
+Can Python be used to analyze environmental data?|A) True;B) False|A|Python has many libraries for data analysis.
+Why must AI systems be tested for bias?|A) To save energy;B) To improve speed;C) To ensure fairness;D) To reduce cost|C|Fairness is crucial in ethical AI.
+AI should always be transparent in decision-making. Is this a standard ethical guideline?|A) True;B) False|A|Transparency helps build trust in AI systems.
+What device converts sunlight into electricity?|A) Transformer;B) Dynamo;C) Solar Panel;D) Inverter|C|Think of a common component on rooftops in solar homes.
+Can solar panels generate electricity at night?|A) True;B) False|B|They need sunlight to produce power.
+What coding structure is best for responding to water level sensor data?|A) If-Else statements;B) While loop;C) For loop;D) Break statement|A|Think about conditional actions based on sensor thresholds.
+Can a microcontroller be programmed to control a water pump automatically?|A) True;B) False|A|Automation often involves simple logic on embedded devices.
+What is a common format for submitting machine learning models?|A) .exe;B) .csv;C) .pkl;D) .html|C|This format stores trained models in Python.
+Is teamwork essential in real-world problem-solving scenarios like hackathons?|A) True;B) False|A|Collaboration is often key to innovation.
+Which law states that energy cannot be created or destroyed?|A) Newton's First Law;B) Ohm’s Law;C) Law of Conservation of Energy;D) Boyle’s Law|C|It describes the constant total energy in an isolated system.
+Does increasing the voltage always increase current in a resistor (assuming constant resistance)?|A) True;B) False|A|Use Ohm's Law: V = IR.
+What is the output of 2 ** 3 in Python?|A) 5;B) 6;C) 8;D) 9|C|** means exponentiation in Python.
+Can functions in Python return multiple values?|A) True;B) False|A|They can return tuples, lists, or multiple objects.
+Which is not a programming language?|A) HTML;B) Java;C) Python;D) C++|A|HTML is a markup language, not a programming language.
+Is carbon dioxide a greenhouse gas?|A) True;B) False|A|It traps heat in the atmosphere.
+Which of these is a basic unit of matter?|A) Molecule;B) Atom;C) Ion;D) Nucleus|B|Atoms are the fundamental building blocks of matter.
+Do hypotheses always need to be testable?|A) True;B) False|A|A hypothesis must be testable to be scientific.
+What is the kinetic energy of a 1000 kg car moving at 20 m/s?|A) 100,000 J;B) 200,000 J;C) 400,000 J;D) 20,000 J|C|KE = 0.5 * m * v^2.
+Is friction a factor in vehicle braking distance calculations?|A) True;B) False|A|Friction affects stopping force.
+Which programming structure is useful for handling continuous sensor input?|A) For loop;B) If-Else;C) While loop;D) Switch|C|Use a loop that runs until a stop condition.
+Is particulate matter (PM2.5) hazardous to human health?|A) True;B) False|A|PM2.5 can enter lungs and bloodstream.
+Which principle emphasizes that AI should not cause harm?|A) Privacy;B) Non-maleficence;C) Transparency;D) Fairness|B|Non-maleficence means 'do no harm'.
+Should developers consider cultural differences when designing global AI applications?|A) True;B) False|A|Cultural context matters for fairness.
+Which of these stores solar energy for later use?|A) Solar panel;B) Battery;C) Inverter;D) Capacitor|B|Batteries store energy for nighttime use.
+Does the tilt angle of a solar panel affect its efficiency?|A) True;B) False|A|Optimal tilt maximizes sun exposure.
+What is the purpose of a float switch in a water tank system?|A) Measure voltage;B) Detect leaks;C) Detect water level;D) Pump water|C|It helps determine when to activate or deactivate the pump.
+Is it possible to use Arduino to control a relay for turning a water pump on and off?|A) True;B) False|A|Microcontrollers like Arduino support this control.
+Which of the following is a collaborative platform for coding projects?|A) Dropbox;B) GitHub;C) Gmail;D) Skype|B|GitHub is widely used in hackathons.
+Do successful prototypes always need to be fully functional products?|A) True;B) False|B|Prototypes can demonstrate concepts.
+Which gas is most abundant in the Earth’s atmosphere?|A) Oxygen;B) Nitrogen;C) Carbon Dioxide;D) Argon|B|Nitrogen makes up about 78% of the atmosphere.
+Can the formula V = IR be used to calculate current if voltage and resistance are known?|A) True;B) False|A|Ohm’s law directly relates voltage, current, and resistance.
+What is the result of 3^2 + 4^2?|A) 25;B) 20;C) 12;D) 7|A|It's a Pythagorean triple: 9 + 16 = 25.
+Does every valid Python script require a main() function?|A) True;B) False|B|Python scripts can execute code without a main().
+Which component is essential for converting DC to AC in solar systems?|A) Battery;B) Inverter;C) Transformer;D) Resistor|B|Inverters change DC to AC.
+Is data visualization useful for environmental monitoring projects?|A) True;B) False|A|It helps communicate results effectively.
+What is the SI unit of force?|A) Newton;B) Joule;C) Watt;D) Pascal|A|Force is measured in newtons, named after Isaac Newton.
+Is gravity considered a contact force?|A) True;B) False|B|Gravity is a non-contact force.
+If a vehicle decelerates from 30 m/s to 0 in 10 seconds, what is its acceleration?|A) -3 m/s^2;B) -2 m/s^2;C) 3 m/s^2;D) 2 m/s^2|A|Use a = (v - u)/t.
+Can increasing mass reduce a vehicle’s acceleration given the same force?|A) True;B) False|A|From Newton’s second law: F = ma.
+Which sensor can be used to detect carbon monoxide levels?|A) MQ-7;B) DHT11;C) BMP180;D) LDR|A|MQ-7 is commonly used for CO detection.
+Does higher AQI always mean healthier air?|A) True;B) False|B|Higher AQI indicates worse air quality.
+What does GDPR primarily protect?|A) AI models;B) Data privacy;C) Software licenses;D) Hardware safety|B|It is a European law protecting user data.
+Is open-source AI always free to use without attribution?|A) True;B) False|B|Many open-source licenses require attribution or have conditions.
+Which of the following increases a solar panel’s power output?|A) Shade;B) Dust;C) Direct sunlight;D) Tilt misalignment|C|Maximum exposure to sunlight increases output.
+Are solar panels made from semiconductor materials?|A) True;B) False|A|They typically use silicon semiconductors.
+What does PWM stand for in embedded systems?|A) Pulse Width Modulation;B) Power Wave Memory;C) Pitched Wave Motion;D) Pulse Work Motor|A|PWM controls analog levels using digital signals.
+Can digital sensors send continuous values without conversion?|A) True;B) False|B|Digital sensors need ADC for analog data.
+Which programming language is best for AI and data science?|A) Python;B) HTML;C) PHP;D) Bash|A|Python is the standard for AI and data analysis.
+Are mockups helpful during software design presentations?|A) True;B) False|A|They provide visual structure before implementation.
+What is the boiling point of water at sea level?|A) 90°C;B) 100°C;C) 120°C;D) 80°C|B|Water boils at 100°C under standard conditions.
+Is light faster than sound?|A) True;B) False|A|Light travels faster than sound in air.
+What is the acceleration due to gravity on Earth?|A) 10 m/s^2;B) 9.8 m/s^2;C) 8.9 m/s^2;D) 12 m/s^2|B|It is approximately 9.8 m/s^2.
+Can a capacitor store electrical energy?|A) True;B) False|A|Capacitors store energy in an electric field.
+Which structure is used to repeat a block of code until a condition becomes false?|A) For loop;B) While loop;C) If statement;D) Return|B|While loops run as long as a condition is true.
+Does HTML stand for Hypertext Markdown Language?|A) True;B) False|B|It stands for HyperText Markup Language.
+What does the scientific method begin with?|A) Hypothesis;B) Analysis;C) Observation;D) Conclusion|C|Observation is the first step in the scientific method.
+Is forming a hypothesis required before conducting experiments?|A) True;B) False|A|A hypothesis guides the direction of the experiment.
+Which quantity is calculated using mass and acceleration?|A) Speed;B) Force;C) Energy;D) Time|B|Force = mass × acceleration (Newton’s second law).
+Can friction help in stopping a moving vehicle safely?|A) True;B) False|A|Friction between tires and road slows the vehicle.
+What unit is used to measure force?|A) Joule;B) Newton;C) Watt;D) Volt|B|Force is measured in Newtons (N).
+Does increasing a car’s mass increase its momentum if speed is constant?|A) True;B) False|A|Momentum = mass × velocity.
+Which programming structure helps repeat actions efficiently?|A) Loop;B) Variable;C) Function;D) Class|A|Loops repeat blocks of code.
+Can environmental sensors detect air quality using microcontrollers?|A) True;B) False|A|Microcontrollers can interface with gas and particle sensors.
+Which language is commonly used for programming microcontrollers like Arduino?|A) Python;B) C++;C) Java;D) HTML|B|Arduino is primarily programmed using C++.
+Is it true that high CO2 levels can be monitored with digital sensors in real-time?|A) True;B) False|A|CO2 sensors can report real-time data.
+Which concept involves checking if an algorithm treats all users equally?|A) Bias detection;B) Overfitting;C) Debugging;D) Compilation|A|Bias detection ensures fair algorithm outcomes.
+Can using diverse datasets reduce bias in AI systems?|A) True;B) False|A|Diverse data helps reduce model bias.
+Which energy source is clean and derived from sunlight?|A) Diesel;B) Biomass;C) Solar;D) Coal|C|Solar energy comes from sunlight.
+Does tilting solar panels toward the sun improve energy output?|A) True;B) False|A|Optimal tilt maximizes sunlight exposure.
+Which device stores electrical energy for later use in solar systems?|A) Capacitor;B) Battery;C) Fuse;D) Switch|B|Batteries store energy for off-peak use.
+Can Arduino be used to control a water purification system based on turbidity data?|A) True;B) False|A|Sensors and relays make it possible.
+Which sensor is ideal for measuring water flow in smart systems?|A) Ultrasonic;B) Turbidity;C) Flow;D) PIR|C|Flow sensors measure fluid velocity.
+Do logic errors in code affect how water quality data is interpreted?|A) True;B) False|A|Logic errors can lead to incorrect conclusions.
+Which tool is best for collaborative coding and version control in hackathons?|A) GitHub;B) Photoshop;C) Excel;D) Arduino IDE|A|GitHub enables version control and collaboration.
+Is debugging an important part of building reliable tech solutions?|A) True;B) False|A|Debugging ensures the code works as intended.

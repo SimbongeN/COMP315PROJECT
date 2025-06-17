@@ -1,0 +1,10 @@
+What makes solar panels a good choice for renewable energy?|A) They work in the dark;B) They produce carbon emissions;C) They harness sunlight to produce electricity;D) They run on gasoline|C|Sunlight is free and abundant in most regions.
+What is a challenge of wind energy?|A) Wind is always predictable;B) Wind turbines cause pollution;C) Wind is inconsistent;D) Turbines store energy on their own|C|Output varies with weather patterns and location.
+Is the statement "Hydroelectric power uses flowing water to generate electricity" true or false?|A) True;B) False|A|Flowing water spins turbines connected to generators.
+What is a benefit of using a decentralized energy system?|A) Increases outages;B) Concentrates emissions;C) Increases local resilience and efficiency;D) Reduces grid reliability|C|Distributed generation reduces transmission losses.
+Which system stores excess energy for later use?|A) Solar panels;B) Battery storage;C) Transmission lines;D) Hydropumps only|B|Modern lithium-ion batteries have 80-95% efficiency.
+Is it true or false that solar panels can still produce some electricity on cloudy days?|A) True;B) False|A|They operate at 10-25% capacity under clouds.
+What kind of location is ideal for wind farms?|A) Sheltered valleys;B) Dense forests;C) Open plains or coastal areas;D) Underground tunnels|C|Wind speeds >6 m/s are typically required.
+Is the claim "Hydropower has zero environmental impact" true or false?|A) True;B) False|B|Dams alter river ecosystems and fish migration.
+If a 5MW solar farm operates at 20% capacity for 8 hours daily, how much energy (kWh) does it produce in a 30-day month?|A) 24 000 kWh;B) 240 000 kWh;C) 2 400 kWh;D) 240 kWh|B|Use this formula: Capacity (kW) * Capacity factor * Hours/day * Days.
+A town replaces 200 streetlights (150W each) with LEDs (50W each). If lights run 10h/day, what's the annual kWh savings?|A) 73 000 kWh;B) 7 300 kWh;C) 730 kWh;D) 365 000 kWh|A|Use this formula: (Old wattage - New wattage) × Quantity × Hours/day × 365.

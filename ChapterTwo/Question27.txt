@@ -1,0 +1,10 @@
+What principle allows a magnet to levitate using coils?|A) Newton’s Law;B) Electromagnetic induction;C) Gravity;D) Static electricity|A|Changing magnetic fields can induce forces.
+What is created when a magnet moves through a coil?|A) Electricity;B) Heat;C) Light;D) Sound|B|This is Faraday’s discovery.
+Which law explains electromagnetic induction?|A) Coulomb’s Law;B) Faraday’s Law;C) Newton’s Third Law;D) Ampere’s Law|B|Michael Faraday made this discovery.
+Why does a magnet oppose motion in a coil?|A) Friction;B) Magnetic resistance;C) Lenz’s Law;D) Ohm’s Law|A|It resists change in magnetic flux.
+What can increase induced current?|A) Slower motion;B) Weaker magnet;C) More loops in coil;D) Smaller coil|C|More turns = stronger effect.
+Why do magnets repel in levitation?|A) Like poles;B) Induced current;C) Air pressure;D) Light force|B|Induced magnetic fields oppose the original field.
+What’s needed to generate electricity from motion?|A) Magnet and motion;B) Battery and wires;C) Heat;D) Friction|D|It's how generators work.
+Which device uses this principle?|A) Motor;B) Speaker;C) Generator;D) Battery|A|It turns movement into electricity.
+Magnetic fields can create electricity.|True;False|False|Think about generators.
+True/False: A stationary magnet in a coil produces current.|True;False|False|Motion is key for induction.

@@ -1,0 +1,10 @@
+What kind of data is Ethan imagery?|A. Structured;B. Categorical;C. Unstructured;D. Tabular|C|It's visual and requires special preprocessing.
+Which algorithm is best for analyzing image data?|A. CNN (Convolutional Neural Network);B. Naive Bayes;C. SVM;D. K-Means|A|It specializes in recognizing patterns in pixels.
+What does IoT stand for?|A. Integration of Technology;B. Internet of Technology;C. Internet of Things;D. Instant Online Tracking|C|It involves sensors, devices, and networked communication.
+What role do sensors play in automation systems?|A. Store logs;B. Provide real-time data;C. Train the AI;D. Reduce data size|B|They’re like the “eyes and ears” of the system.
+Why might satellite data be preprocessed before model use?|A. To delete unnecessary timestamps;B. To enhance contrast and normalize pixel values;C. To change the file format;D. To reduce training time|B|Raw images often vary in resolution and brightness.
+Which model would be ideal to handle both image and sensor data inputs?|A. SVM;B. Multi-modal neural network;C. Linear Regression;D. Random Forest|B|It processes different types of data streams.
+What does model inference mean in automation?|A. Model testing;B. Making predictions from trained models;C. Model evaluation;D. Preprocessing data|B|It’s what happens after training is done.
+Which technique helps avoid over-watering based on weather forecasts?|A. Dropout;B. Feature engineering;C. Data augmentation;D. Integration with predictive APIs|D|API calls can add real-time insights.
+Ethan's system adjusted water flow based on real-time sensor input.|True;False|True|Automation uses feedback loops.
+Ethan image resolution doesn’t affect model accuracy.|True|False|Higher resolution often yields better analysis.

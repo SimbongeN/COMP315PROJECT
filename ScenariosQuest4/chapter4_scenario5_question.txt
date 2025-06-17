@@ -1,0 +1,8 @@
+Triangles in trusses are used because they:|A) Look appealing; B) Add backup members; C) Transfer loads without deforming; D) Simplify construction|C|Try bending a triangle vs square - triangles keep their shape. Ethan builds models to demonstrate.
+In a simple truss, tension occurs mainly in the:|A) Top members; B) Bottom members; C) Only diagonals; D) All members equally|B|Imagine hanging a weight - the bottom stretches. Ethan marks tension/compression on a diagram.
+Warren trusses share loads equally among all members. True or False?|A) True; B) False|B|Explanation: Center members carry more load. Ethan uses colored force diagrams to show differences.
+For fault-tolerance, Ethan adds:|A) Extra diagonal bracing; B) Shorter spans; C) Fewer joints; D) Single-material design|A|If one fails, others take over. Ethan tests by cutting random members in a model.
+The most likely failure point is the:|A) Bottom center chord; B) End supports; C) Top peak; D) Random location|A|Maximum tension occurs here. Ethan shows stress concentrations with strain gauges.
+Cable-only truss bridges work well. True or False?|A) True; B) False|B|Explanation: Need compression members too. Ethan tries building one with just ropes - it collapses.
+Minimum recommended safety factor is:|A) 1; B) 2; C) 0.5; D) 10|B|Double the expected load capacity. Ethan reviews bridge design codes.
+Trusses are invariably the lightest option. True or False?|A) True; B) False|B|Explanation: Some arches/cantilevers can be lighter. Ethan weighs different bridge types.

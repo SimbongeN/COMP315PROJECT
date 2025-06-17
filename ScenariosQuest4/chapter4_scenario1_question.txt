@@ -1,0 +1,8 @@
+Ethan measures the bridge as 5m long by 2m wide. With 500kg per square meter plank strength, max static load is:|A) 5,000kg; B) 2,500kg; C) 1,000kg; D) 10,000kg|A|Area = length times width = 5x2 = 10 square meters. Then 10x500kg = 5,000kg. Ethan sketches the calculation.
+Applying a safety factor of 2, the allowed load becomes:|A) 2,500kg; B) 5,000kg; C) 10,000kg; D) 1,250kg|A|Safe load = Max load divided by Safety factor = 5,000kg divided by 2. Ethan shows a "No more than 2,500kg" sign design.
+Dynamic loads equal static loads in bridge design. True or False?|A) True; B) False|B|Explanation: Walking/running adds 40-100% more force than standing. Ethan demonstrates with a jumping test.
+When the bridge vibrates at its natural frequency, Ethan identifies:|A) Static failure; B) Resonance; C) Material fatigue; D) Wind effects|B|Like a swing pushed at the right timing. Ethan measures vibration frequencies.
+To reduce resonance, Ethan recommends:|A) Thicker beams; B) Fewer supports; C) Lighter materials; D) Removing handrails|A|Stiffness (measured by EI divided by L cubed) resists oscillations. Ethan compares thick vs thin beam vibrations.
+Safety factors only matter for busy bridges. True or False?|A) True; B) False|B|Explanation: All bridges use safety factors (typically 2-4) for unexpected loads. Ethan reviews design codes.
+Doubling the bridge width (same plank strength) changes capacity to:|A) 10,000kg; B) 5,000kg; C) 2,500kg; D) 20,000kg|A|New area = 5m times 4m = 20 square meters. Then 20x500kg. Ethan marks new load zones with paint.
+Bridge capacity depends on load type (uniform/point). True or False?|A) True; B) False|A|Explanation: Point loads create 2-3 times more stress than uniform loads. Ethan places weights at different positions.

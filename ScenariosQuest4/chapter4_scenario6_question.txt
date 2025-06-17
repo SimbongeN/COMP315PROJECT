@@ -1,0 +1,8 @@
+Main suspension cables primarily resist:|A) Squeezing;B) Stretching;C) Slicing;D) Bending|B|Cables can only pull, not push. Ethan demonstrates with a rope under tension.
+The horizontal cable force component controls:|A) Tower stability;B) Cable sag and deck stress;C) Wind resistance;D) Paint durability|B|F_horizontal = Weight x Span / (4 x Sag). Ethan sketches the force triangle.
+Bridge towers endure compression from cables. True or False?|A) True;B) False|A|Explanation: Towers get squeezed like a spring. Ethan shows tower stress simulations.
+To extend cable life, Ethan prioritizes:|A) Corrosion coating + tension sensors;B) Cosmetic paint;C) Annual replacement;D) Lighter cars|A|Salt and stress cause 80% of failures. Ethan inspects cable corrosion samples.
+Increased cable sag results in:|A) More horizontal force;B) Less horizontal force;C) No change;D) Tower bending|B|Formula: Force is proportional to (Weight x Span / Sag). Ethan adjusts a model bridge's sag.
+Suspension bridge decks only handle bending. True or False?|A) True;B) False|B|Explanation: Hangers add tension too. Ethan marks force directions on blueprints.
+Most failure-prone components are:|A) Road surface;B) Vertical hangers;C) Main towers;D) Lane markings|B|Hangers endure fatigue cycles. Ethan shows broken hanger examples.
+Suspension bridges suit short spans best. True or False?|A) True;B) False|B|Explanation: They're inefficient under 500m. Ethan compares span-to-cost ratios.

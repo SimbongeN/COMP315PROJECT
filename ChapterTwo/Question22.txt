@@ -1,0 +1,10 @@
+What force pushes the balloon forward?|A) Gravity;B) Friction;C) Air escaping;D) Magnetism|C|The air rushes out backward.
+This is an example of which law?|A) Newton’s 1st;B) Newton’s 2nd|C) Newton’s 3rd;D) Murphy’s Law|C|Every action has an equal and opposite reaction.
+What happens if Ishaan blows more air?|A) Goes slower;B) Stops;C) Flies farther;D) Pops|C|More air means stronger push.
+Why does the balloon change direction mid-air?|A) Gravity;B) Wobble;C) Uneven air release;D) Heat|C|Air doesn't always exit evenly.
+What would make the balloon go in a straight line?|A) Attach a string track;B) Blow less;C) Use water;D) Freeze it|A|Controlling direction needs guidance.
+What gas fills the balloon?|A) Helium;B) Steam;C) Air;D) Carbon|C|It's what we breathe.
+Which of these is a reaction force?|A) Balloon flying;B) Air escaping;C) Balloon staying;D) Holding it|A|It’s what happens because of escaping air.
+What will happen if Ishaan ties the balloon?|A) It bursts;B) It floats;C) It won’t fly;D) It turns to rocket|C|No air can escape.
+The balloon moves because air pushes it.|True;False|True|Think of the opposite force.
+Newton’s 3rd law is about gravity.|True;False|False|It’s about actions and reactions.

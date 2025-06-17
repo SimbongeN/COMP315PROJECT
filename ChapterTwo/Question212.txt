@@ -1,0 +1,29 @@
+The braking force in a bicycle primarily depends on which type of friction?|a) Static friction;b) Rolling friction;c) Kinetic friction;d) Fluid friction|c|Consider the type of friction involved when the bicycle's wheels are in motion while braking.
+If the coefficient of friction between the bicycle tires and the road is 0.6, and the normal force exerted by the bicycle is 500 N, what is the frictional force?|a) 100 N;b) 300 N;c) 600 N;d) 800 N|b|Use the formula for frictional force: F=μ×N, where μ is the coefficient of friction and N is the normal force.
+Which of the following can increase the frictional force between the bicycle’s brakes and the wheel?|a) Reducing the surface area of brake pads;b) Using smoother brake pads;c) Increasing the pressure applied to the brakes;d) Applying lubricants to the brake pads|c|Think about what directly increases the contact between the brake pads and the wheel, or makes the interaction more forceful.
+What happens to the braking force if the road is wet?|a) It increases;b) It remains unchanged;c) It decreases;d) It depends on the weight of the bicycle|c|Wet surfaces tend to reduce the effectiveness of friction. Think about how water affects the contact between surfaces.
+A cyclist applies brakes, but the wheels lock, causing the bicycle to skid. What type of friction is now acting between the tires and the road?|a) Static friction;b) Rolling friction;c) Kinetic friction;d) Fluid friction|c|Skidding occurs when the wheels stop rolling but continue sliding, which involves friction between moving surfaces.
+If the coefficient of friction between the road and the bicycle tires increases, what happens to the stopping distance?|a) It increases;b) It decreases;c) It remains unchanged;d) It depends on the rider's weight|b|More friction means the brakes can stop the bike more effectively.
+A cyclist moving at 8 m/s comes to a stop in 16 meters. If the speed was instead 16 m/s, what would the stopping distance be (assuming the same braking force)|a) 32 meters;b) 48 meters;c) 64 meters;d) 16 meters|c|Compare the squared values of the speeds, since stopping distance is proportional to speed².
+A cyclist applies the brakes but notices the bicycle skidding instead of stopping smoothly. What is the likely reason?|a) The brake force is too weak;b) The friction between the tires and the road is too low;c) The air resistance is too high;d) The bicycle is too light|b|Skidding occurs when friction is not sufficient to grip the road properly.
+Increasing the roughness of the brake pads increases the friction between them and the wheel.|True,False|True|Rougher surfaces tend to have more microscopic contact points, which increases friction.
+Lubricating the bicycle’s brake pads will improve braking efficiency.|True,False|False|Lubricants reduce friction, and in braking systems, lower friction means less effective braking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

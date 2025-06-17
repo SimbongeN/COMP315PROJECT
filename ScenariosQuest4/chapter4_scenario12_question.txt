@@ -1,0 +1,9 @@
+What force do cables in a cable-stayed bridge primarily handle?|A) Compression;B) Heat;C) Tension;D) Torsion|C|High-strength steel cables typically withstand 1,860 MPa tensile stress.
+Which geometric concept helps analyze diagonal cable tension?|A) Sine wave;B) Triangle;C) Square root;D) Spiral|B|Use this formualr Tension = Load / (2*sin(theta)) where theta is cable angle.
+True or false: Longer cables experience more tension under the same load.|A) True;B) False|A|Elongation dL = (F*L)/(A*E) where L is cable length.
+Which structural part resists vertical loads in this bridge type?|A) Cable only;B) Tower/pylon;C) Deck paint;D) Guard rails|B|Pylons transfer loads to foundations at 45-60 degree angles.
+What mathematical method helps calculate the distribution of forces in the system?|A) Probability theory;B) Matrix multiplication;C) Static equilibrium equations;D) Pie chart analysis|C|Sum(F_x)=0, Sum(F_y)=0, Sum(M)=0 are the equilibrium conditions.
+True or false: Steel has a higher tensile strength than concrete.|A) True;B) False|A|Steel: 250-1 860 MPa vs Concrete: 2-5 MPa in tension.
+If the deck shifts laterally during wind, what component resists this?|A) Wind turbines;B) Shear keys or dampers;C) Paint layer;D) Cable color|B|Dampers can reduce oscillations by 60-80%.
+True or false: Pre-tensioning cables before loading increases bridge stability.|A) True;B) False|A|Preload reduces live load deflection by 30-50%.
+If a 50m cable (A=0.01m^2, E=200GPa) carries 500kN, what's its elongation (mm)? Formula: dL=(F*L)/(A*E)|A) 12.5;B) 25;C) 50;D) 100|A|Convert E to Pa: 200GPa = 200*10^9 Pa.

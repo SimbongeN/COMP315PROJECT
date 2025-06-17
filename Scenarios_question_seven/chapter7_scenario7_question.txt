@@ -1,0 +1,8 @@
+What is the core principle of FEA discretization?|A) Solving PDEs analytically;B) Dividing domains into subdomains with shape functions;C) Physical prototyping;D) Graphical rendering|B|Key concept: Galerkin method converts PDEs to [K]{u}={F} via piecewise approximation.
+Which element type would you use for thin shell analysis?|A) 8-node hexahedral;B) 4-node tetrahedral;C) 3-node triangular;D) 2-node beam|C|Shell theory: Kirchhoff-Love requires C1 continuity (quadratic elements often preferred).
+FEA always converges to exact solutions with mesh refinement. True or false?|A) True;B) False|B|Limitations: Locking in plasticity, hourglassing in reduced integration, spectral pollution.
+Your mesh shows stress oscillations at clamped edges. What should you do?|A) Coarsen mesh;B) Use higher-order elements;C) Ignore artifacts;D) Delete constraints|B|Remedy: p-refinement increases polynomial order (hp-FEA handles singularities best).
+Which is NOT a required material input for linear static FEA?|A) Young's modulus;B) Poisson's ratio;C) Yield strength;D) Density|D|Note: Density needed only for dynamic analyses (natural frequencies, etc.).
+True/False: FEA can model contact nonlinearities.|A) True;B) False|A|Advanced capability: Penalty/Lagrange methods handle gap/contact (μ=0.2 for steel-on-steel).
+Why use submodeling?|A) Reduce DOFs;B) Study local effects;C) Avoid meshing;D) Simplify CAD|B|Workflow: Global coarse model -> Boundary conditions -> Local refined submodel.
+True/False: FEA has replaced physical testing in aerospace.|A) True;B) False|B|Reality: FAA requires test correlation (e.g., Boeing 787 had 1,400 strain gauge tests).

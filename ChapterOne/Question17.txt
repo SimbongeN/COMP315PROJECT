@@ -1,0 +1,10 @@
+What talent is Ethan developing?|A) Public speaking;B) Programming;C) Painting;D) Acting|B|He's solving problems using code.
+Which language might Ethan be using for simple apps?|A) English;B) Python;C) Latin;D) Spanish|B|It's a beginner-friendly coding language.
+Why does Ethan test his app multiple times?|A) For fun;B) To break it;C) To fix errors;D) To show off|C|sting helps find bugs.
+What happens if Ethan misses a semicolon in some languages?|A) Nothing;B) App runs faster;C) It crashes;D) It sings|C|Syntax errors cause programs to fail.
+What’s an algorithm?|A) A robot;B) A magic spell;C) A set of instructions;D) A design|C|Hint: It’s a step-by-step solution.
+Why does Ethan comment his code?|A) To write jokes;B) To explain steps;C) To confuse hackers;D) To shorten code|B|Helps others and himself understand the logic.
+What does debugging mean?|A) Finding spiders;B) Fixing mistakes;C) Copying code;D) Skipping errors|B|It’s about solving code issues.
+Which career fits Ethan’s interest?|A) Doctor;B) Software Engineer;C) Athlete;D) Chef|B|He enjoys coding and logic.
+Logical thinking is essential for coding.|True;False|True|Code is built on logic and order.
+Ethan can build apps without understanding logic.|True;False|False|Understanding is key to problem-solving.

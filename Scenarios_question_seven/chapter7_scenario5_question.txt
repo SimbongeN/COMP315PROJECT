@@ -1,0 +1,8 @@
+When calculating dead load, which material property is MOST critical?|A) Color;B) Unit weight;C) Thermal expansion;D) Conductivity|B|Key parameter: Unit weight (N/m3) × Volume = Dead load (AASHTO T 121).
+A truck convoy creates what type of live load?|A) Distributed static;B) Concentrated dynamic;C) Cyclic impact;D) Thermal stress|B|Design consideration: Axle loads (320 kN standard) + Dynamic Amplification Factor (1.33).
+True/False: The impact factor for bridges accounts for earthquake loads.|A) True;B) False|B|Clarification: Impact factor (33%) covers vehicle vibrations ONLY (AASHTO 3.6.2).
+Given: DL=15 kN/m, LL=20 kN/m, span=10m. Total UDL=?|A) 35 kN/m;B) 350 kN;C) 3.5 kN/m;D) 17.5 kN|A|Formula: UDL = DL + LL. Always verify units (kN/m vs total kN).
+For the same bridge, if 60% LL is dynamic, the static LL is:|A) 8 kN/m;B) 12 kN/m;C) 20 kN/m;D) 32 kN/m|B|Calculation: Static LL = Total LL × (1 - percent/100).
+True/False: Safety factors compensate for material defects.|A) True;B) False|A|Design philosophy: phi-factors (0.65-0.9) cover material variability (AASHTO LRFD 5.5.4).
+Which bending moment diagram matches a mid-span point load?|A) Triangle peak at center;B) Parabola;C) Rectangle;D) Trapezoid|A|Visual cue: Mmax = PL/4 (single load) vs wL2/8 (distributed).
+True/False: Load combinations (e.g., 1.25DL+1.75LL) increase precision.|A) True;B) False|A|LRFD principle: Load factors account for simultaneous worst-case scenarios.

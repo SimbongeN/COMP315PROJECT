@@ -1,0 +1,14 @@
+What type of intelligence is Ethan using?|A) Spatial;B) Musical;C) Emotional;D) Linguistic|A|Related to shapes and structures.
+Why might Ethan sketch before building?|A) To color later;B) To visualize design;C) For fun;D) To make a comic|B|Helps in planning layout.
+Which of these tools might Ethan use for precision?|A) Protractor;B) Ruler;C) Stethoscope;D) Calculator|B|Used to measure length.
+Which career may suit Ethan’s interests?|A) Farmer;B) Architect;C) Dancer;D) Singer|B|They design buildings.
+If his building keeps falling, what should Rohan check?|A) Color of bricks;B) Sound of clicks;C) Structure and base;D) Temperature|C|A strong base is important.
+What skill improves as Ethan uses trial and error?|A) Memory;B) Strategy;C) Drawing;D) Creativity|B|He builds by testing new ideas.
+Which of these reflects real-world planning?|A) Coloring;B) Designing layers;C) Jumping levels;D) Making sounds|B|Architects plan every detail.
+How does Lego help in understanding balance?|A) By making noise;B) By standing straight;C) Through stability;D) By flying|C|He needs things to stay upright.
+Ethan shows signs of engineering talent.|True;False|True|Design and structure are key in engineering.
+Lego blocks only help in playing, not learning.|True;False|False|They aid creativity and design understanding.
+
+
+
+

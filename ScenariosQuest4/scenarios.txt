@@ -1,0 +1,12 @@
+Bridge Building Basics|Ethan is guiding the town's youth in understanding simple bridge types and their basic forces.|chapter4_scenario1_question.txt|easy
+Materials Matter|Ethan teaches how different materials affect the safety and cost of bridge design.|chapter4_scenario2_question.txt|easy
+Simple Calculations for Load Estimation|Ethan helps students calculate loads on a beam to introduce structural analysis.|chapter4_scenario3_question.txt|easy
+Measuring Load Distribution in a Playground Bridge|Ethan builds a small bridge in a playground. He explore how weight is balanced on the bridge and how different shapes affect strength.|chapter4_scenario10_question.txt|easy
+Designing a Footbridge Over a Small Stream|Ethan builds a wooden footbridge over a stream. He use geometric calculations and stress tests to ensure it supports pedestrian traffic safely.|chapter4_scenario11_question.txt|medium
+Stress and Strain Calculations|Ethan explains stress-strain concepts and safety factors in design.|chapter4_scenario4_question.txt|medium
+Understanding Bridge Supports|Ethan walks his students through how supports and piers affect bridge stability.|chapter4_scenario5_question.txt|medium
+Analyzing Complex Forces|Ethan challenges his class with multiple load cases on truss bridges.|chapter4_scenario6_question.txt|Medium
+Dynamic Loads on Bridges|Ethan introduces dynamic loads such as wind and earthquakes on bridge design.|chapter4_scenario7_question.txt|Hard
+Advanced Structural Analysis|Ethan teaches matrix methods and software-based analysis of bridges.|chapter4_scenario8_question.txt|Hard
+Sustainable Bridge Design|Ethan explores the intersection of structural engineering and sustainability.|chapter4_scenario9_question.txt|Hard
+Building a Model Cable-Stayed Bridge|Advanced Ethans design a scaled cable-stayed bridge. He must account for both vertical and horizontal force components under real-world stress conditions.|chapter4_scenario12_question.txt|Hard

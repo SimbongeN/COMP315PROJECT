@@ -1,0 +1,10 @@
+What is a circular economy?|A) Throwing things away;B) Reusing and recycling materials continuously;C) Making disposable goods;D) Linear production only|B|Nothing is wasted; materials stay in use for multiple lifecycles.
+Which material is easiest to recycle?|A) Mixed plastics;B) Aluminum;C) Styrofoam;D) Food-soiled paper|B|Aluminum retains quality through infinite recycling loops.
+Is the statement "Composting reduces landfill waste and returns nutrients to the soil" true or false?|A) True;B) False|A|Food waste composting can divert 30% of landfill volume.
+What is an example of source reduction?|A) Recycling plastic bags;B) Producing fewer plastic products;C) Burning trash;D) Importing raw materials|B|Prevention eliminates 100% of associated waste streams.
+What is the main goal of a "zero waste" policy?|A) Burn more trash;B) Export waste;C) Eliminate all waste through reuse and recycling;D) Reduce costs|C|Targets 90%+ diversion from landfills/incinerators.
+Is it true or false that food waste contributes to methane emissions in landfills?|A) True;B) False|A|1 ton of food waste = 0.25 tons CH4 (25x worse than CO2).
+What is the problem with single-stream recycling systems?|A) They are efficient;B) Contamination from mixed materials;C) They sort items better;D) They eliminate sorting|B|Contamination rates can reach 25%, making materials unrecyclable.
+Is the claim "E-waste contains valuable recoverable materials" true or false?|A) True;B) False|A|1M phones yield 35kg gold, 350kg silver, 15kg palladium.
+If a city of 500 000 reduces waste per capita from 2kg/day to 1.5kg/day, what's the annual landfill reduction?|A) 91 250 tons;B) 182 500 tons;C) 365 000 tons;D) 547 500 tons|A|Use this formula: Population * Daily reduction (kg) * 365 ÷ 1000.
+A recycling plant processes 20 tons/day at $100/ton. If contamination drops from 20% to 5%, what's the annual revenue gain?|A) $109 500;B) $54 750;C) $219 000;D) $27 375|A|Use this formula: Throughput * (Old contam% - New contam%) * $100 * 365.

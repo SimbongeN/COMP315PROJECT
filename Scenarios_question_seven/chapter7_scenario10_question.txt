@@ -1,0 +1,10 @@
+What do solar panels convert sunlight into?|A) Heat only;B) Wind;C) Electricity;D) Water|C|Typical efficiency: 15-22% of sunlight -> usable electricity.
+What energy source do solar panels rely on?|A) Moonlight;B) Natural gas;C) Sunlight;D) Coal|C|Earth receives ~1,000W/m^2 solar energy at peak.
+True or false: Solar panels produce greenhouse gases during electricity production.|A) True;B) False|B|Only manufacturing creates emissions (~50g CO2/kWh lifetime).
+Which part of a solar panel absorbs sunlight?|A) Aluminum frame;B) Photovoltaic cells;C) Plastic cover;D) Wires|B|Silicon cells generate 0.5-0.7V per cell.
+True or false: Solar panels can work at night without any energy storage.|A) True;B) False|B|Batteries store excess daytime power for night use.
+What is one environmental benefit of solar power?|A) Creates pollution;B) Reduces fossil fuel use;C) Uses lots of water;D) Increases noise|B|1MW solar = ~1,500 tons CO2 avoided annually.
+Which country is a global leader in solar panel installation?|A) Antarctica;B) China;C) Greenland;D) Iceland|B|China installed 87GW in 2022 (40% global total).
+What type of energy is solar power classified as?|A) Nonrenewable;B) Renewable;C) Fossil fuel;D) Finite|B|Sun provides 173 000 TW continuously to Earth.
+True or false: Solar panels work best when installed in shady areas.|A) True ; B) False|B|Direct sunlight maximizes energy production.
+A school installs 10 solar panels (400W each). With 4 sun hours/day, what's their monthly output (kWh)?|A) 48;B) 120;C) 480;D) 1 200|C|Use this formula: Panels * Watts * Hours * 30 / 1000.

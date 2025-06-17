@@ -1,0 +1,10 @@
+Which type of model is best for time-series forecasting?|A. K-Nearest Neighbors;B. Recurrent Neural Network (RNN);C. Random Forest;D. Logistic Regression|B|These models can handle sequential data well.
+What feature is essential in time-series datasets?|A. Random sampling;B. Timestamps;C. Binary encoding;D. Class labels|B|Order matters.
+Which metric is commonly used to evaluate forecasting accuracy?|A. F1 Score;B. Mean Absolute Error (MAE);C. ROC AUC;D. Confusion Matrix|B|It measures average magnitude of error.
+How can external features like weather help traffic models?|A. They add noise;B. They are irrelevant;C. They improve prediction accuracy;D. They increase computation only|C|Bad weather can slow traffic — correlation matters.
+What is overfitting in time-series models?|A. Predicting future timestamps;B. Memorizing the training data;C. Generalizing across sensors;D. Removing trend|B|High training accuracy but poor future predictions.
+Which of the following can be used to smooth traffic data?|A. LSTM layers;B. Moving average;C. PCA;D. Encoding|B|It averages recent points to show trends.
+What problem arises if data has missing timestamps?|A. Faster training;B. Overfitting;C. Irregular intervals harm the model;D. It improves randomness|C|Models assume regular time steps.
+What Python library supports time-series data manipulation?|A. pandas;B. keras;C. sklearn;D. seaborn|A|Think DataFrame and datetime indexing.
+Kian used weather data as an input feature to improve model performance.|True;False|TrueExternal features can boost accuracy.
+RNNs forget earlier data easily unless enhanced.|True;False|True|That’s why LSTM or GRU is often used.

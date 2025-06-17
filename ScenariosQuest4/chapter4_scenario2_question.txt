@@ -1,0 +1,8 @@
+For a simply supported log beam, maximum bending occurs at:|A) Supports; B) Midpoint; C) 1/3 from support; D) Entire beam|B|Imagine bending a ruler - it curves most in the middle. Ethan draws the bending shape.
+A 4m log with 800N/m load has max bending moment of:|A) 6 400Nm; B) 3 200Nm; C) 1 600Nm; D) 800Nm|B|Use this formula: M = wLL/8.
+Thicker logs resist bending better. True or False?|A) True; B) False|A|Explanation: Moment of inertia (I) grows with diameter^4. Ethan shows thick vs thin log deflection.
+Adding mid-span supports helps by:|A) Making a cantilever; B) Reducing effective span; C) Adding weight; D) Doing nothing|B|Each 1m segment bends less than a 4m span. Ethan builds a model with extra supports.
+Why avoid long, thin logs?|A) They sag dangerously; B) They're cheaper; C) They're stronger; D) No reason|A|Stress = (load x length)/thickness. Ethan snaps a thin stick to demonstrate.
+Rope end-ties stop mid-span bending. True or False?|A) True; B) False|B|Explanation: Only supports under the bend help. Ethan tests with/without center support.
+Beam stiffness depends on:|A) EI; B) ML; C) WL; D) FL|A|E = wood hardness, I = thickness effect. Ethan compares oak vs pine logs.
+Cantilevers and simple beams bend equally. True or False?|A) True; B) False|B|Explanation: Cantilevers have 2x higher moment at fixed end. Ethan demonstrates with diving boards.

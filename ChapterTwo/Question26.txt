@@ -1,0 +1,12 @@
+What happens when light enters a prism?|A) Reflects;B) Absorbs;C) Refracts;D) Spins|C|It bends.
+Why do we see colors?|A) Light breaks;B) Light reflects;C) Light bends;D) Light cools|A|Different wavelengths spread.
+What slows light down in glass?|A) Density;B) Heat;C) Speed;D) Force|A|It’s harder to pass through dense stuff.
+Which color bends the most?|A) Red;B) Green;C) Blue;D) Violet|D|sIt has shortest wavelength.
+Why does a straw look bent in water?|A) Illusion;B) Light reflects;C) Light refracts;D) Straw moves|C|Bending of light in liquids.
+What is the term for light bending?|A) Reflection;B) Refraction;C) Radiation;D) Deflection|B|It starts with 'refr-'.
+What does a prism do to white light?|A) Blocks it;B) Reflects it;C) Combines it;D) Splits it|D|You get a rainbow.
+What happens if Dev uses a mirror instead?|A) Bends light;B) Splits light;C) Reflects light;D) Absorbs light|C|It bounces light back.
+Light speeds up in glass.|True;False|False|Think of material density.
+Refraction is why we see rainbows.|True;False|True|Water droplets act like prisms.
+
+

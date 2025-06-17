@@ -1,0 +1,12 @@
+What is the primary function of a windmill?|A) Producing electricity;B) Generating wind;C) Storing water;D) Cooling the air|A|Think about what modern wind turbines do—do they create wind or use it?
+Which factor affects how much power a windmill generates?|A) The color of the blades;B) The speed of the wind;C) The height of the windmill;D) The temperature of the air |B|A windmill relies on something that moves through the air—what factor changes how much energy it captures?
+If the wind speed is cut in half, how does the windmill’s power output change?|A) It stays the same;B) It reduces by half;C) It reduces to a quarter;D) It doubles|C|Wind power isn't directly proportional to speed—it depends on speed raised to a power.
+The windmill’s blades are not spinning. What should Alex check first?|A) The color of the paint;B) The rotation mechanism;C) The weight of the windmill;D) The number of blades|B|If something isn’t moving, what part would you check first?
+What type of force causes the windmill blades to turn?|A) Gravity;B) Friction;C) Aerodynamic lift and drag;D) Magnetic force |C| Windmill blades work like airplane wings—what forces act on them?
+If Ethan wants the blades to capture more wind energy, what should they do?|A) Make the blades heavier;B) Increase the blade surface area;C) Shorten the blades;D) Paint the blades a darker color|B|More surface area means more wind can be captured—how does that affect energy generation?
+The gears of the windmill are rusted. What can Alex apply to reduce friction?|A) Sand;B) Oil or lubricant;C) Water;D) Glue|B|Rust increases friction. What substance is used to make parts move smoothly?
+Ethan was discouraged from fixing the windmill by Mr. Patel.|A)True;B)False|B|Mr. Patel encouraged Alex to repair it.
+Ethan used scientific principles to repair the windmill.|A)True;B)False|A|Scientific methods were key to the repair.
+The windmill was working perfectly before Alex arrived.|A)True;B)False|B|It was broken and needed fixing.
+If friction in the gear system reduces power output by 30%, what is the actual power if the windmill was supposed to generate 1000W?|A) 700W;B) 900W;C) 1000W;D) 300W|A| If friction takes away 30% of power, how much remains from 1000W?
+What is the main advantage of placing the windmill on a tall tower?|A) It looks better;B) It catches stronger and more consistent winds;C) It keeps animals away;D) It makes maintenance easier|B|Wind is stronger at higher altitudes—what’s the advantage of building taller?

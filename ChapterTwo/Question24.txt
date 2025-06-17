@@ -1,0 +1,10 @@
+What causes the water to spray farther when Aryan squeezes the hose?|A) Air pressure;B) Increased water pressure;C) Gravity;D) Friction|B| Reducing area increases force per unit area.
+Which variable affects how fast water flows from the hose?|A) Color of hose;B) Hose length;C) Pressure inside;D) Temperature|C|More push, more flow.
+What happens to flow when the opening is smaller?|A) Slows down;B) Stops;C) Speeds up;D) Changes direction|C|Pressure increases velocity.
+What law describes this behavior?|A) Boyle's Law;B) Newton's Law';C) Bernoulli’s Principle;D) Archimedes' Law|C|It deals with pressure and flow in fluids.
+If Aryan pokes holes, what will change?|A) Pressure drops;B) Water heats;C) Flow increases;D) Hose expands|A|Leaks reduce internal force.
+Why does water curve as it falls?|A) Air resistance;B) Gravity;C) Surface tension;D) Heat|B|It’s the same reason objects fall.
+Which tool measures pressure?|A) Barometer;B) Thermometer;C) Manometer;D) Stopwatch|C|It starts with 'm'.
+Why does squeezing the middle affect the end?|A) Adds color;B) Pushes air;C) Increases internal force;D) Decreases temperature|C| Force acts throughout the fluid.
+A narrow opening increases water speed.|True;False|True|Think of pressure and exit velocity.
+The water flow depends on gravity only.|True;False|False|There’s more to flow than just falling.

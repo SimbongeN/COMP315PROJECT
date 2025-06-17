@@ -1,0 +1,13 @@
+What does Ethan’s bin detect?|A) Temperature;B) Waste level;C) Color;D) Light|B|How full it is.
+What happens when the bin is full?|A) It locks;B) It explodes;C) It sends a message;D) It changes color|C|Alerts someone to clean it.
+What does IoT stand for?|A) Internet of Trash;B) Internet of Things;C) Intranet of Tasks;D) Internal Order Tracker|B|Devices connected online.
+What kind of data does the bin collect?|A) Weather;B) Usernames;C) Fill level;D) Passwords|C|Measures how much garbage is inside.
+Which part sends the alert?|A) Motor;B) Sensor;C) Network module;D) Battery|C|It uses Wi-Fi to transmit info.
+Ethan programs the bin using what?|A) Music player;B) Code;C) Calculator;D) Paint|B|Logic to automate alerts.
+What’s a benefit of smart bins?|A) Trash piles up;B) Better waste management;C) More garbage;D) Slower collection|B|Alerts when action is needed.
+Where is the bin data sent?|A) Nearby speaker;B) Local park;C) Control server/app;D) Satellite|C|It needs to be reviewed by humans.
+The bin sends data automatically.|True;False|True|It’s part of the automation.
+Ethan checks the bin manually every day.|True;False|False|The system does it for him.
+
+
+

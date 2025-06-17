@@ -1,0 +1,12 @@
+The Solar Village Project|Ethan is tasked to help a remote village become energy independent using solar power.|chapter5_scenario1_question.txt|Easy
+Wind Energy for the Future|Ethan introduces wind turbines to communities exploring renewable energy.|chapter5_scenario2_question.txt|Easy
+Hydroelectric Power Explained|Ethan teaches about small-scale hydro plants for sustainable energy.|chapter5_scenario3_question.txt|Easy
+Energy Efficiency Challenges|Ethan engages learners in reducing energy consumption in homes.|chapter5_scenario4_question.txt|Medium
+Designing Off-Grid Systems|Ethan guides designing hybrid off-grid systems combining renewables.|chapter5_scenario5_question.txt|Medium
+Grid Stability and Storage|Ethan explains how to maintain grid stability with renewable energy and storage.|chapter5_scenario6_question.txt|Medium
+Carbon Footprint Calculations|Ethan teaches students how to calculate carbon footprints and plan reductions.|chapter5_scenario7_question.txt|Hard
+Climate Modeling and Prediction|Ethan explores climate models to teach about environmental forecasting.|chapter5_scenario8_question.txt|Hard
+Innovating Sustainable Technologies|Ethan inspires students to invent sustainable solutions for global problems.|chapter5_scenario9_question.txt|Hard
+Reducing Carbon Footprints at School|Ethan calculate the school's carbon footprint and identify daily activities that contribute to CO2 emissions. He propose eco-friendly alternatives for transportation, energy use, and food waste.|chapter5_scenario10_question.txt|Easy
+Evaluating the Impact of Deforestation|Ethan studies how cutting down forests affects CO2 levels and global temperatures. He simulate deforestation scenarios to understand long-term impacts.|chapter5_scenario11_question.txt|Medium
+Modeling Climate Feedback Loops|Ethan model how melting ice caps affect global temperatures and create feedback loops. He analyze albedo, methane release, and ocean currents.|chapter5_scenario12_question.txt|Hard

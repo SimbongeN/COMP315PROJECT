@@ -1,0 +1,8 @@
+Ethan tests water turbidity. Which method removes suspended solids most effectively?|A) Sedimentation;B) 0.1-micron membrane filtration;C) Chlorination;D) Aeration|B|Membranes physically block particles >0.1μm. *Ethan demonstrates with a lab filter setup.*
+For lead/mercury removal, Ethan specifies:|A) Activated carbon + ion exchange;B) Sand filtration only;C) UV treatment;D) Chlorine dosing|A|Heavy metals require adsorption + ion swapping. *Ethan shows EPA contaminant removal tables.*
+UV systems kill pathogens but don't filter chemicals. True or False?|A) True;B) False|A|Explanation: UV disrupts DNA at 254nm wavelength but can't remove dissolved substances. *Ethan compares before/after lab tests.*
+System requires 5 000L/h flow. If each membrane handles 1,000L/h, minimum filters needed:|A) 5;B) 10;C) 1;D) 0.5|A|Calculation: Total flow ÷ Capacity per unit. *Ethan sketches parallel filter arrays.*
+Reverse osmosis (RO) drawbacks include:|A) 3L waste brine per 1L purified;B) No contaminant removal;C) Only works for viruses;D) Low energy use|A|RO recovery rates typically 25-50%. *Ethan measures waste brine conductivity.*
+Multi-stage treatment (e.g., membrane + carbon) is essential. True or False?|A) True;B) False|A|Example: 93% contaminant removal vs 65% single-stage. *Ethan diagrams treatment trains.*
+Most sustainable system prioritizes:|A) Low-energy maintenance + local repairability;B) Highest-tech imported equipment;C) No operator training;D) Ignoring initial costs|A|Lifecycle cost = CapEx + 10y OpEx. *Ethan compares three system designs.*
+Clean water reduces child mortality by 50% in developing regions. True or False?|A) True;B) False|A|WHO data: 1.8M deaths/year prevented. *Ethan shares case studies from similar towns.*

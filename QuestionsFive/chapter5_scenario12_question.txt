@@ -1,0 +1,10 @@
+What is a feedback loop in climate science?|A) An email reply;B) A reinforcing or stabilizing cycle;C) Ice melting into rivers;D) Air circulation|B|Arctic amplification shows 3x faster warming than global average.
+What is the albedo effect?|A) Water cycle rate;B) Reflection of sunlight by surfaces;C) Temperature of volcanoes;D) Thickness of air layers|B|Ice reflects 80-90% sunlight vs ocean's 5-10%.
+True or false: Melting ice reduces Earth's albedo.|A) True ; B) False|A|1% albedo drop = 0.3W/m^2 extra solar absorption.
+What greenhouse gas can be released from melting permafrost?|A) Methane;B) Argon;C) Oxygen;D) Hydrogen|A|Permafrost holds 1 500 Gt carbon (2x atmospheric CO2).
+What happens to ocean currents when polar ice melts?|A) They speed up;B) They disappear;C) They change due to salinity differences;D) They burn|C|AMOC could weaken 34-45% by 2100 under RCP8.5.
+True or false: Feedback loops can both amplify and reduce climate change.|A) True;B) False|A|Clouds show both cooling (reflection) and warming (trapping) effects.
+Which type of feedback loop is ice melt and warming?|A) Positive feedback loop;B) Neutral feedback loop;C) Negative feedback loop;D) Silent feedback loop|A|Arctic could be ice-free in summer by 2030s.
+What modeling tool is used to simulate climate feedbacks?|A) Periodic tables;B) Climate system simulations;C) Cooking timers;D) Rulers|B|CMIP6 models include 100+ feedback variables.
+If Arctic sea ice shrinks from 6M km^2 to 4M km^2, and albedo drops from 0.8 to 0.2, what's the solar energy gain? (Solar constant = 340W/m^2)|A) 68 PW;B) 136 PW;C) 204 PW;D) 272 PW|C|Use this formula: Area*(Old albedo-New albedo)*Solar constant.
+A permafrost thaw releases 0.05 Gt methane/year. If methane has 28x CO2's warming potential, what's the CO2-equivalent/year?|A) 0.14 Gt;B) 1.4 Gt;C) 14 Gt;D) 140 Gt|B|Use this formula: Methane * Global warming potential.

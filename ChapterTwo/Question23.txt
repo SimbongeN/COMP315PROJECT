@@ -1,0 +1,10 @@
+Why does the foil boat float?|A) It's metal;B) It’s light;C) It spreads weight;D) It sinks faster|C|Flat shape helps.
+Why does the clay ball sink?|A) It's round;B) It's heavy;C) It’s dense and compact;D) It floats first|C|Shape affects floating.
+What is buoyancy?|A) Sinking force;B) Floating ability;C) Air in water;D) Water moving|B|It keeps objects afloat.
+Which material is denser?|A) Clay;B) Foil;C) Plastic;D) Water|A|More mass in less space.
+How does a ship float?|A) It's magic;B) Wide shape;C) It's light;D) It has holes|B|Big surface area displaces water.
+What happens if Ethan presses the foil boat?|A) Floats better;B) Pops;C) Sinks;D) Nothing|C|It changes shape and density.
+Water pushes up with what force?|A) Friction;B) Gravity;C) Buoyant force;D) Magnetism|C|Opposite of gravity in liquids.
+Which shape floats best?|A) Ball;B) Cone;C) Flat bowl;D) Triangle|C|More surface area on water helps.
+Heavy things always sink.|True;False|False|Weight alone doesn’t decide.
+Foil can float if shaped right.|True;False|True|Shape changes behavior.

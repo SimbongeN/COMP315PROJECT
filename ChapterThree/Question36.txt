@@ -1,0 +1,23 @@
+What kind of data does Aditya collect?|A) Internet usage;B) Weather reports;C) Grades and attendance;D) Food choices|Related to school activities.
+What is the goal of Ethan’s system?|A) Replace teachers;B) Entertain students;C) Identify struggling students;D) Post memes|Support students who fall behind.
+What metric helps identify top performers?|A) Lowest score;B) Score average;C) Absences;D) Class noise|C|Higher numbers are better.
+What does a bar chart help visualize?|A) Phone models;B) Student ranking;C) School maps;D) Menu options|C|Compare quantities between individuals.
+Which algorithm can predict student risk?|A) Rock-paper-scissors;B) Random guessing;C) Decision tree;D) Crossword|B|A common classification tool.
+How can teachers use the system’s insight?|A) Change furniture;B) Adjust lessons;C) Turn off screens;D) Increase homework for all|B|Customize teaching based on performance.
+What does “correlation” show?|A) If data was copied;B) A password;C) How two things are connected;D) Nothing|C|Relation between two variables.
+Why is data privacy important?|A) For better Wi-Fi;B) To protect student identity;C) To speed up coding;D) To print data|B|Sensitive personal information.
+Ethan’s tool can suggest who might need tutoring.|True;False|False|Based on patterns in the data.
+Only principals can see Ethan’s results.|True;False|True|Teachers also need access.
+
+
+
+
+
+
+
+
+
+
+
+
+

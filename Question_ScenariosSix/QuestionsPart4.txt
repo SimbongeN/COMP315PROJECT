@@ -1,0 +1,9 @@
+What is a carbon footprint?|A) Fossil remains;B) Measurement of greenhouse gases produced by actions;C) Mark left by tires;D) Energy usage bill|B|It quantifies the emissions caused by individuals or groups.
+Which of these activities typically increases your carbon footprint?|A) Walking to work;B) Eating plant-based foods;C) Driving gasoline cars daily;D) Using solar panels|C|Think fuel consumption and tailpipe emissions.
+Is the statement "Using public transit reduces your carbon footprint" true or false?|A) True;B) False|A|Shared rides lower emissions per person.
+What energy-saving habit helps reduce emissions at home?|A) Leaving lights on;B) Using incandescent bulbs;C) Installing LED lighting;D) Keeping windows open in winter|C|Energy-efficient devices waste less electricity.
+How does eating less meat help the planet?|A) Decreases food variety;B) Increases deforestation;C) Lowers methane emissions from livestock;D) Makes food processing harder|C|Livestock farming releases greenhouse gases.
+Is it true or false that streaming videos online uses less energy than watching DVDs?|A) True;B) False|B|Data centers consume large amounts of electricity.
+Which action most directly lowers your personal carbon emissions?|A) Recycling only plastic;B) Switching to an electric car;C) Drinking bottled water;D) Buying new clothes weekly|B|Think cleaner vehicle technology.
+Is the claim "Unplugging unused devices saves energy" true or false?|A) True;B) False|A|Devices in standby mode still draw power.
+If a household reduces electricity use from 900 kWh/month to 600 kWh/month, and electricity emits 0.5 kg CO2 per kWh, what's the annual CO2 reduction?|A) 1800 kg;B) 1200 kg;C) 3600 kg;D) 2400 kg|A|Formula: (Initial usage - Reduced usage) × CO2 per kWh × 12 months.

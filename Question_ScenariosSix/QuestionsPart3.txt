@@ -1,0 +1,9 @@
+What feature helps reduce urban heat islands?|A) Asphalt roads;B) Green roofs;C) Glass skyscrapers;D) Air conditioning units|B|Plants cool surfaces by providing shade and evaporating water.
+What type of public transport is most environmentally friendly?|A) Gasoline buses;B) Diesel cars;C) Electric trains;D) Motorbikes|C|Think low-emission mass transit.
+Is the statement "Green buildings use less energy and water" true or false?|A) True;B) False|A|Sustainability standards focus on efficiency.
+Which urban feature encourages walking over driving?|A) Highways;B) Wide pedestrian paths;C) Large parking lots;D) Industrial zones|B|These are designed for foot traffic.
+What energy-efficient lighting option is widely used in green cities?|A) Incandescent bulbs;B) Halogen lamps;C) LED lights;D) Neon tubes|C|Think long-lasting and low power use.
+Is it true or false that permeable pavements reduce stormwater runoff?|A) True;B) False|A|They allow rain to seep into the ground.
+What is a benefit of planting trees along streets?|A) Increases noise;B) Absorbs CO2 and provides shade;C) Attracts more traffic;D) Blocks wind turbines|B|Natural elements improve air and comfort.
+If a city replaces 1000 gasoline cars (avg. 2.3kg CO2/day) with e-bikes (0.02kg CO2/day), what's the annual CO2 reduction?|A) 82 000kg;B) 830 000kg;C) 1 200kg;D) 8 300kg|B|Use this formula: (Gas car emissions - E-bike emissions) * Number of vehicles * 365 days.
+True or False: Urban farming can reduce food transportation emissions.|A) True ; B) False|A|Locally grown food travels shorter distances to consumers.

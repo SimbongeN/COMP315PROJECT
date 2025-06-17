@@ -1,0 +1,13 @@
+What technology helps Ethan find Max?|A) Radio waves;B) GPS;C) Light sensors;D) Magnetic field|B|Used in phones for maps.
+What is required for real-time location updates?|A) Internet;B) Battery;C) Sunlight;D) Switch|A|Data must be sent continuously.
+What does GPS stand for?|A) Great Pet Sensor;B) Global Positioning System;C) Google Pathway Signal;D) Geo Power System|B|Helps find exact locations.
+How does Ethan view the pet’s location?|A) Printed chart;B) On a map;C) On a spreadsheet;D) On a TV|B|Maps show positions visually.
+What’s one benefit of data tracking?|A) Makes things harder;B) Uses more storage;C) Helps locate moving objects;D) Slows down apps|C|Tracks changes in real time.
+What happens if GPS loses signal?|A) Max moves faster;B) Location can’t update;C) Alarm rings;D) Nothing changes|B|Signal is needed for data transmission.
+Ethan uses which programming concept to plot Max’s position?|A) Loop;B) FunctionC) Coordinates;D) Emoji|C| X and Y on a map.
+What’s the data type for Max’s position?|A) Color;B) Integer;C) Boolean;D) Latitude and Longitude|D|Geographical points.
+GPS can track moving animals.|True;False|True|Think delivery tracking.
+Ethan’s location never changes.|True;False|False|Ethan is moving.
+
+
+

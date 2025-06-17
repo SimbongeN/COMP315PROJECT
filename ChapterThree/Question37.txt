@@ -1,0 +1,11 @@
+What type of machine learning does anomaly detection typically fall under?|A. Supervised learning;B. Unsupervised learning;C. Reinforcement learning;D. Deep learning|B|The data does not have labeled anomalies initially.
+Which of the following is a common algorithm for anomaly detection?|A. K-Means Clustering;B. Isolation Forest;C. Linear Regression;D. Decision Tree|B|It isolates outliers by randomly partitioning the data.
+What is the role of a threshold in anomaly detection?|A. Defines feature correlation;B. Sets a limit for outlier scores;C. Sorts data;D. Creates labels|B|Anything beyond this value is flagged as an anomaly.
+Why would normalization be important in power grid data analysis?|A. To increase randomness;B. To reduce the data size;C. To make features comparable;D. To encode categorical features|C|Different units can distort distance-based algorithms.
+What does a precision score evaluate in the context of anomaly detection?|A. Speed of detection;B. Ratio of true positives to total predicted positives;C. Number of anomalies per second;D. Error rate|B|It’s about how many flagged anomalies are actually real.
+Why is it hard to evaluate anomaly detection models?|A. They are too fast;B. Lack of labeled data;C. They always overfit;D. They require image data|B|Often, anomalies aren’t tagged in real-world data.
+What data structure is most efficient for real-time streaming anomaly detection?|A. Array;B. Hash map;C. Queue;D. Linked List|C|Think first-in-first-out for temporal relevance.
+Which Python library is commonly used for anomaly detection tasks?|A. BeautifulSoup;B. NumPy;C. Scikit-learn;D. Tkinter|C|It provides Isolation Forest and preprocessing tools.
+Ethan’s model can improve if trained on only normal data points.|True;False|True|Many anomaly detection models assume a majority of normal behavior.
+Anomaly detection always provides the exact reason behind anomalies.|True;False|False|It identifies what is odd, not necessarily why.
+
